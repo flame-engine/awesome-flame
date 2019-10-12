@@ -28,7 +28,7 @@ Entries for that category should look like the following:
 You should put your project in this category if the following conditions are true:
 
 - Made with the Flame Engine
-- Published Google Play or Apple App Store.
+- Published on the Google Play or Apple App Store.
 
 Entries for that category should look like the following:
 
