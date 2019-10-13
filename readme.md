@@ -8,17 +8,41 @@
 >
 > [![License: MIT](https://img.shields.io/github/license/flame-engine/flame-awesome?style=flat-square)](https://opensource.org/licenses/MIT) [![Powered by Flame](https://img.shields.io/badge/Powered%20by-%F0%9F%94%A5-orange.svg?style=flat-square)](https://flame-engine.org)<br>
 
-## Open Source
+## Contents
 
-### Other Genre?
+- [Articles](#articles)
+- [Plugins & Libraries](#plugins--libraries)
+- [Projects](#projects)
+  - [Open Source](#open-source)
+  - [App Releases](#app-releases)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Articles
 
 - [Add Your Item](https://github.com/flame-engine/flame-awesome/pulls)
 
-## App Releases
-
-### Other Genre?
+## Plugins & Libraries
 
 - [Add Your Item](https://github.com/flame-engine/flame-awesome/pulls)
+
+## Projects
+
+### Open Source
+
+#### Other Genre?
+
+- [Add Your Item](https://github.com/flame-engine/flame-awesome/pulls)
+
+### App Releases
+
+#### Other Genre?
+
+- [Add Your Item](https://github.com/flame-engine/flame-awesome/pulls)
+
+## Contributing
+
+[Please read the contribution guidelines](https://github.com/flame-engine/flame-awesome/blob/master/contributing.md)
 
 ## License
 
