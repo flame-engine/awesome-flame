@@ -6,7 +6,7 @@
 1. Always add your items to the end of a list. The order is first-come-first-serve.
 1. Always add the "Add your item" to the end of each list
 
-`- [Add Your Item](https://github.com/flame-engine/flame-awesome/pulls)`
+`- [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)`
 
 ## Articles
 
