@@ -40,6 +40,11 @@
 
 ### Open Source
 
+#### Platform
+
+- [**Flutters**](https://github.com/impulse/flutters) - A mixture of Flappy Bird and Doodle Jump by [impulse](https://github.com/impulse)
+- [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
+
 #### Other Genre?
 
 - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
