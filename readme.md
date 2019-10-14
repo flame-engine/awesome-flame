@@ -40,16 +40,30 @@
 
 ### Open Source
 
-#### Platform
+#### Casual
 
-- [**Flutters**](https://github.com/impulse/flutters) - A mixture of Flappy Bird and Doodle Jump. By [impulse](https://github.com/impulse)
-- [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
+ - [**Bob Box**](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
+ - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
+
+#### Endless Runner
+
+ - [**BGUG**](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
+ - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
+
+#### Platform
+ - [**Flutters**](https://github.com/impulse/flutters) - A mixture of Flappy Bird and Doodle Jump. By [impulse](https://github.com/impulse)
+ - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
 
 #### Other Genre?
 
 - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
 
 ### App Releases
+
+#### Metroidvania
+
+ - [**Tales of a Lost Mine**](https://fireslime.xyz/games/tales.html) - [Android](https://play.google.com/store/apps/details?id=xyz.fireslime.tales&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) - An awesome platform-adventure Metroidvania. Get in the role of a brave explorer and uncover the secrets of a long lost time. By [FireSlime](https://fireslime.xyz)
+- [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
 
 #### Other Genre?
 
