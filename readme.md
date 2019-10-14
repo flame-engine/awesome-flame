@@ -48,7 +48,11 @@
 #### Endless Runner
 
  - [**BGUG**](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
-- [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
+ - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
+
+#### Platform
+ - [**Flutters**](https://github.com/impulse/flutters) - A mixture of Flappy Bird and Doodle Jump. By [impulse](https://github.com/impulse)
+ - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
 
 #### Other Genre?
 
