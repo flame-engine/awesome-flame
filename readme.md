@@ -1,6 +1,6 @@
 <div align="center">
 	<img width="200" height="auto" src="media/logo.png" alt="Awesome">
-	<h1>Flame Awesome</h1>
+	<h1>Awesome Flame</h1>
 	<br>
 </div>
 
@@ -10,7 +10,7 @@
 
 ## Contents
 
-- [Articles](#articles)
+- [Articles & Tutorials](#articles--tutorials)
 - [Plugins & Libraries](#plugins--libraries)
 - [Projects](#projects)
   - [Open Source](#open-source)
@@ -18,7 +18,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Articles
+## Articles & Tutorials
 
 - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
 
@@ -46,4 +46,4 @@
 
 ## License
 
-MIT
+[MIT](https://github.com/flame-engine/awesome-flame/blob/master/LICENSE)
