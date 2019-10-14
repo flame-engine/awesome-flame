@@ -6,7 +6,7 @@
 
 > A curated list of Games made with the Flame Engine for Flutter
 >
-> [![License: MIT](https://img.shields.io/github/license/flame-engine/awesome-flame?style=flat-square)](https://opensource.org/licenses/MIT) [![Powered by Flame](https://img.shields.io/badge/Powered%20by-%F0%9F%94%A5-orange.svg?style=flat-square)](https://flame-engine.org)<br>
+> [![License: CC0](https://img.shields.io/badge/license-CC0-lightgray?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0) [![Powered by Flame](https://img.shields.io/badge/Powered%20by-%F0%9F%94%A5-orange.svg?style=flat-square)](https://flame-engine.org)<br>
 
 ## Contents
 
