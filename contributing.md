@@ -46,7 +46,7 @@ Entries for that category should look like the following:
 1. Make sure to add your Game to the correct Genre.
 1. If you add a new Genre, please order them A-Z.
 
-#### Open Source
+### Open Source
 
 You should put your project in this category if the following conditions are true:
 
@@ -58,9 +58,9 @@ You should put your project in this category if the following conditions are tru
 
 Entries for that category should look like the following:
 
-`- [**My Game**](repository url) - Short description by [Name](url)`
+`- [**My Game**] (repository url) - Short description by [Name](url)`
 
-#### App Releases
+### App Releases
 
 You should put your project in this category if the following conditions are true:
 
