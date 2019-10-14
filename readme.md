@@ -4,7 +4,7 @@
 	<br>
 </div>
 
-> A curated list of Games made with the Flame Engine for Flutter
+> A curated list of games, libraries, and articles related to the Flame Engine for Flutter
 >
 > [![License: CC0](https://img.shields.io/badge/license-CC0-lightgray?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0) [![Powered by Flame](https://img.shields.io/badge/Powered%20by-%F0%9F%94%A5-orange.svg?style=flat-square)](https://flame-engine.org)<br>
 
