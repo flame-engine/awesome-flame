@@ -30,13 +30,15 @@
 
 ### Open Source
 
-#### Endeless Runner
-
- - [**BGUG**](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
-
 #### Casual
 
  - [**Bob Box**](https://github.com/fireslime/bounce_box) - Bob Box is a simple casual game writen in Flutter+Flame. By [FireSlime](https://fireslime.xyz)
+ - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
+
+#### Endless Runner
+
+ - [**BGUG**](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
+- [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
 
 #### Other Genre?
 
@@ -47,6 +49,7 @@
 #### Metroidvania
 
  - [**Tales of a Lost Mine**](https://fireslime.xyz/games/tales.html) - [Android](https://play.google.com/store/apps/details?id=xyz.fireslime.tales&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) - Tales of a Lost Mine is an awesome platform-adventure Metroidvania. Get in the role of a brave explorer and uncover the secrets of a long lost time. By [FireSlime](https://fireslime.xyz)
+- [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
 
 #### Other Genre?
 
