@@ -17,14 +17,14 @@ You should put your Article/Video/Tutorial in this category if the following con
 
 Entries for that category should look like the following:
 
-`- [**My Article**](repository url). By [Name](url)`
+`- [My Article](repository url). By [Name](url)`
 
 If you have a series of articles, you are allowed to bundle them into a sub header:
 
 ```
 ### Tutorial Topic by Name
-- [**My Article Part 1**](url)
-- [**My Article Part 2**](url)
+- [My Article Part 1](url)
+- [My Article Part 2](url)
 ```
 
 ## Plugins & Libraries
@@ -38,7 +38,7 @@ You should put your project in this category if the following conditions are tru
 
 Entries for that category should look like the following:
 
-`- [**My Plugin/Library**](repository url) - Short description. By [Name](url)`
+`- [My Plugin/Library](repository url) - Short description. By [Name](url)`
 
 ## Games
 
@@ -57,7 +57,7 @@ You should put your project in this category if the following conditions are tru
 
 Entries for that category should look like the following:
 
-`- [**My Game**] (repository url) - Short description. By [Name](url)`
+`- [My Game] (repository url) - Short description. By [Name](url)`
 
 ### App Releases
 
@@ -68,4 +68,4 @@ You should put your project in this category if the following conditions are tru
 
 Entries for that category should look like the following:
 
-`- **My Game** - [Android](url), [iOS](url) - Short description. By [Name](url)`
+`- My Game - [Android](url), [iOS](url) - Short description. By [Name](url)`
