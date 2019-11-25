@@ -59,7 +59,7 @@
 
 #### RPG
 
-- [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG make. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+- [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ### App Releases
 
