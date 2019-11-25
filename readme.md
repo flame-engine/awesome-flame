@@ -57,6 +57,10 @@
 - [Flutters](https://github.com/impulse/flutters) - A mixture of Flappy Bird and Doodle Jump. By [impulse](https://github.com/impulse)
 - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
 
+#### RPG
+
+- [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG make. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+
 ### App Releases
 
 #### Metroidvania
