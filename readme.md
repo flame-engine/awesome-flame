@@ -60,6 +60,7 @@
 #### RPG
 
 - [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+- [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
 
 ### App Releases
 
