@@ -36,6 +36,7 @@
 
 ## Plugins & Libraries
 
+- [flame_texturepacker](https://pub.dev/packages/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto/flame_texturepacker)
 - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
 
 ## Projects
