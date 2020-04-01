@@ -30,6 +30,10 @@
 - [Scoring, Storage, and Sound Tutorial - Step by Step with Flame and Flutter (Part 4 of 5)](https://jap.alekhin.io/scoring-storage-sound-tutorial-flame-flutter-part-4)
 - [Game Finishing and Packaging Tutorial - Step by Step with Flame and Flutter (Part 5 of 5)](https://jap.alekhin.io/game-finishing-packaging-tutorial-flame-flutter-part-5)
 
+### Articles By [Fireslime](https://fireslime.xyz/)
+- [Creating a virtual controller with Stack on Flame](https://fireslime.xyz/articles/20190902_Flame_Virtual_Controller_With_Stack.html)
+- [Basic Camera usage on Flame](https://fireslime.xyz/articles/20190911_Basic_Camera_Usage_In_Flame.html)
+
 ### Other Articles & Tutorials
 
 - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
