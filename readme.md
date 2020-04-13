@@ -52,6 +52,7 @@
 #### Casual
 
 - [Bob Box](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
+- [Snaake!](https://github.com/lucasnlm/snaake-flutter) - A simple casual snake game.
 - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
 
 #### Endless Runner
