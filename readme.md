@@ -87,6 +87,11 @@
 - Four In A Row - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.fourinarow), [iOS](https://apps.apple.com/us/app/four-in-a-row-classic/id1495540053) - Play the classic 'Four In A Row' board game! Will you be the first to connect 4 of your chips? Challenge the AI, or play against your friends and family. By [Ignace Maes](https://ignacemaes.com/)
 - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
 
+#### Casual
+
+- KINGA - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.kinga), [iOS](https://apps.apple.com/us/app/kinga/id1506422810) - Protect the cookie from the pesky flies. By [Kevin Omyonga](https://kevinomyonga.com)
+- [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
+
 ## Contributing
 
 [Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/master/contributing.md)
