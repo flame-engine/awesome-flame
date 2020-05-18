@@ -42,7 +42,7 @@
 ## Plugins & Libraries
 
 - [flame_texturepacker](https://pub.dev/packages/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto/flame_texturepacker)
-- [flame_splash_screen](https://pub.dev/packages/flame_splash_screen) - Customizable Flame splash screen. By [Flame team](https://pub.dev/packages/flame_splash_screen)
+- [flame_splash_screen](https://pub.dev/packages/flame_splash_screen) - Customizable Flame splash screen. By [Flame team](https://github.com/flame-engine)
 - [flame_scrolling_sprite](https://pub.dev/packages/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area. By [Flame team](https://github.com/flame-engine)
 - [bonfire](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
