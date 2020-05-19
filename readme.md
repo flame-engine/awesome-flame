@@ -37,6 +37,7 @@
 ### Other Articles & Tutorials
 
 - [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa)
+- [Flutter Web and Flame](https://github.com/AseemWangoo/experiments_with_web). By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
 - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
 
 ## Plugins & Libraries
