@@ -30,8 +30,7 @@
 - [Scoring, Storage, and Sound Tutorial - Step by Step with Flame and Flutter (Part 4 of 5)](https://jap.alekhin.io/scoring-storage-sound-tutorial-flame-flutter-part-4)
 - [Game Finishing and Packaging Tutorial - Step by Step with Flame and Flutter (Part 5 of 5)](https://jap.alekhin.io/game-finishing-packaging-tutorial-flame-flutter-part-5)
 
-### 简体中文教程 (Chinese translate) by [HarrisonQI](https://github.com/HarrisonQi)
-Because of Chinese government policy, it may be slower if you are outside of China. But the speed in China is very fast. 
+### 简体中文教程 Alekhin Tutorial Series (Simplified Chinese) by [HarrisonQI](https://github.com/HarrisonQi) 
 - [Flutter游戏开发(flame) Flame介绍](https://www.bugcatt.com/archives/279)
 - [Flutter 游戏开发(flame) 开发2D休闲游戏：消灭小飞蝇(1/5)](https://www.bugcatt.com/archives/292)
 - [Flutter 游戏开发(flame) 图形和动画(2/5)](https://www.bugcatt.com/archives/560)
