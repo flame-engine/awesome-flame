@@ -51,7 +51,7 @@
 ## Plugins & Libraries
 
 - [bonfire](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
-- [flame_gamepad](https://github.com/flame-engine/flame_geom) - Flutter Gamepad Support. By [Flame team](https://github.com/flame-engine)
+- [flame_gamepad](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support. By [Flame team](https://github.com/flame-engine)
 - [flame_geom](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations. By [Flame team](https://github.com/flame-engine)
 - [flame_scrolling_sprite](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area. By [Flame team](https://github.com/flame-engine)
 - [flame_splash_screen](https://github.com/flame-engine/flame_splash_screen) - Customizable Flame splash screen. By [Flame team](https://github.com/flame-engine)
