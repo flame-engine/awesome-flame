@@ -50,13 +50,16 @@
 
 ## Plugins & Libraries
 
+### Official
+- [flame_gamepad](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support. By [Flame Team](https://github.com/flame-engine)
+- [flame_geom](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations. By [Flame Team](https://github.com/flame-engine)
+- [flame_scrolling_sprite](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area. By [Flame Team](https://github.com/flame-engine)
+- [flame_splash_screen](https://github.com/flame-engine/flame_splash_screen) - Customizable Flame splash screen. By [Flame Team](https://github.com/flame-engine)
+- [play_games](https://github.com/flame-engine/play_games) - A simple wrapper on top of Google Play Games Services (GPGS), including auth, achievement, and more. By [Flame Team](https://github.com/flame-engine)
+
+## Community
 - [bonfire](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
-- [flame_gamepad](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support. By [Flame team](https://github.com/flame-engine)
-- [flame_geom](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations. By [Flame team](https://github.com/flame-engine)
-- [flame_scrolling_sprite](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area. By [Flame team](https://github.com/flame-engine)
-- [flame_splash_screen](https://github.com/flame-engine/flame_splash_screen) - Customizable Flame splash screen. By [Flame team](https://github.com/flame-engine)
-- [flame_texturepacker](https://pub.dev/packages/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto/flame_texturepacker)
-- [play_games](https://github.com/flame-engine/play_games) - A simple wrapper on top of Google Play Games Services (GPGS), including auth, achievement, and more. By [Flame team](https://github.com/flame-engine)
+- [flame_texturepacker](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto/flame_texturepacker)
 - [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)
 
 ## Projects
