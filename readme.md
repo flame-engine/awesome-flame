@@ -1,6 +1,8 @@
 <div align="center">
 	<div>
-		<img width="200" src="media/logo.png" alt="Awesome Flame">
+    <a href="https://flame-engine.org/">
+		<img width="300" src="media/logo.png" alt="Awesome Flame">
+    </a>
 	</div>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
