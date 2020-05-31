@@ -4,7 +4,7 @@
 		<img width="300" src="media/logo.png" alt="Awesome Flame">
     </a>
 	</div>
-  <p align="center">
+  <p style="margin-top:30px;" align="center">
     <a href="https://github.com/sindresorhus/awesome">
       <img alt="Awesome" src="https://awesome.re/badge-flat.svg" />
     </a>
@@ -14,7 +14,7 @@
     <a href="https://flame-engine.org">
       <img alt="Powered by Flame" src="https://img.shields.io/badge/Powered%20by-%F0%9F%94%A5-orange.svg?style=flat-square" />
     </a>
-    <a href="https://github.com/flame-engine/awesome-flame/blob/master/contributing.md">
+    <a href="https://github.com/flame-engine/awesome-flame/blob/master/CONTRIBUTING.md">
       <img alt="Add your project" src="https://img.shields.io/badge/-Add%20your%20project-blue?style=flat-square" />
     </a>
   </p>
