@@ -1,0 +1,25 @@
+name: Run awesome lint
+
+on:
+  push:
+    # Run against master branch only.
+    branches: [master]
+  pull_request:
+    # Include events emitted on code change only.
+    types: [opened, synchronize]
+
+jobs:
+  awesome-lint-workflow:
+    runs-on: ubuntu-latest
+    name: Linting with awesome-lint
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Use Node.js 10.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 10.x
+      - run: npm install
+      - run: npx awesome-lint

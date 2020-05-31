@@ -4,20 +4,17 @@
 
 1. If you think something belongs in the wrong category, or think there needs to be a new category, feel free to edit things.
 2. Always add your items to the end of a list. The order is first-come-first-serve.
-3. Always add the "Add your item" to the end of each list.
-
-`- [Add Your Item](https://github.com/flame-engine/awesome-flame/pulls)`
 
 ## Articles & Tutorials
 
 You should put your Article/Video/Tutorial in this category if the following conditions are true:
 
 - The Article/Video/Tutorial is about using the Flame Engine.
-- The Article/Video/Tutorial needs to have an English version or subtitles.
+- The Article/Video/Tutorial needs to have an English version or subtitles. Adding a translation for an existing article is fine.
 
 Entries for that category should look like the following:
 
-`- [My Article](repository url). By [Name](url)`
+`- [My Article](repository url) - By [Name](url)`
 
 If you have a series of articles, you are allowed to bundle them into a sub header:
 
@@ -28,6 +25,8 @@ If you have a series of articles, you are allowed to bundle them into a sub head
 ```
 
 ## Plugins & Libraries
+
+The "Official" section is reserved for the Flame Team. Please use the "Community" section to add your entry.
 
 You should put your project in this category if the following conditions are true:
 
@@ -40,7 +39,7 @@ Entries for that category should look like the following:
 
 `- [My Plugin/Library](repository url) - Short description. By [Name](url)`
 
-## Games
+## Projects
 
 1. Open Source is a great learning resource, thus publicly available projects will be listed first.
 2. Make sure to add your Game to the correct Genre.
