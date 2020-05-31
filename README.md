@@ -63,8 +63,8 @@ Flame is a minimalist 2D game engine for Flutter that provides a nice set of som
 
 ### Other Articles & Tutorials
 
-- [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa). By [Bo Hellgren](https://medium.com/@bo.hellgren)
-- [Flutter Web and Flame](https://github.com/AseemWangoo/experiments_with_web). By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
+- [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa) - Build your first game with ads and i18n. By [Bo Hellgren](https://medium.com/@bo.hellgren)
+- [Flutter Web and Flame](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
 
 ## Plugins & Libraries
 
