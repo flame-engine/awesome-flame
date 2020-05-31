@@ -24,6 +24,8 @@
 
 > A curated list of Games, Libraries, and Articles related to the Flame Engine for Flutter
 
+Flame is a minimalist 2D game engine for Flutter that provides a nice set of somewhat independent modules you can choose from to build your games.
+
 ## Contents
 
 - [Articles & Tutorials](#articles--tutorials)
@@ -45,7 +47,7 @@
 - [Scoring, Storage, and Sound Tutorial - Step by Step with Flame and Flutter (Part 4 of 5)](https://jap.alekhin.io/scoring-storage-sound-tutorial-flame-flutter-part-4)
 - [Game Finishing and Packaging Tutorial - Step by Step with Flame and Flutter (Part 5 of 5)](https://jap.alekhin.io/game-finishing-packaging-tutorial-flame-flutter-part-5)
 
-### 简体中文教程 Alekhin Tutorial Series (Simplified Chinese) by [HarrisonQI](https://github.com/HarrisonQi)
+### 简体中文教程 Alekhin's Beginner Tutorial Series (Simplified Chinese), translated by [HarrisonQI](https://github.com/HarrisonQi)
 
 - [Flutter 游戏开发(flame) Flame 介绍](https://www.bugcatt.com/archives/279)
 - [Flutter 游戏开发(flame) 开发 2D 休闲游戏：消灭小飞蝇(1/5)](https://www.bugcatt.com/archives/292)
@@ -54,15 +56,15 @@
 - [Flutter 游戏开发(flame) 分数, 存档和音效(4/5)](https://www.bugcatt.com/archives/564)
 - [Flutter 游戏开发(flame) 收尾和打包(5/5)](https://www.bugcatt.com/archives/731)
 
-### Articles By [Fireslime](https://fireslime.xyz/)
+### Articles by [Fireslime](https://fireslime.xyz/)
 
 - [Creating a virtual controller with Stack on Flame](https://fireslime.xyz/articles/20190902_Flame_Virtual_Controller_With_Stack.html)
 - [Basic Camera usage on Flame](https://fireslime.xyz/articles/20190911_Basic_Camera_Usage_In_Flame.html)
 
 ### Other Articles & Tutorials
 
-- [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa) - By [Bo Hellgren](https://medium.com/@bo.hellgren)
-- [Flutter Web and Flame](https://github.com/AseemWangoo/experiments_with_web) - By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
+- [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa). By [Bo Hellgren](https://medium.com/@bo.hellgren)
+- [Flutter Web and Flame](https://github.com/AseemWangoo/experiments_with_web). By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
 
 ## Plugins & Libraries
 
