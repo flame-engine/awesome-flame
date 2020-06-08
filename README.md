@@ -120,6 +120,8 @@ Flame is a minimalist 2D game engine for Flutter that provides a nice set of som
 
 - KINGA - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.kinga), [iOS](https://apps.apple.com/us/app/kinga/id1506422810) - Protect the cookie from the pesky flies. By [Kevin Omyonga](https://kevinomyonga.com)
 
+- Dino Run! - [Android](https://play.google.com/store/apps/details?id=io.github.epsi95.dinorun), - You are already familiar with this game, you can play it in Chrome when there is no internet. I just added a little color to it. Also you can shout to make the little cute Dino to jump, isn't that cool?. By [Probhakar Sarkar](https://github.com/epsi95)
+
 ## Contributing
 
 [Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/master/CONTRIBUTING.md)
