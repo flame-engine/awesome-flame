@@ -22,9 +22,9 @@
 
 # Awesome Flame
 
-> A curated list of Games, Libraries, and Articles related to the Flame Engine for Flutter
+> A curated list of games, libraries, and articles related to the Flame Engine for Flutter.
 
-Flame is a minimalist 2D game engine for Flutter that provides a nice set of somewhat independent modules you can choose from to build your games.
+[Flame](https://flame-engine.org/) is a minimalist 2D game engine for Flutter that provides a nice set of somewhat independent modules you can choose from to build your games.
 
 ## Contents
 
@@ -46,15 +46,6 @@ Flame is a minimalist 2D game engine for Flutter that provides a nice set of som
 - [Views and Dialog Boxes Tutorial - Step by Step with Flame and Flutter (Part 3 of 5)](https://jap.alekhin.io/views-dialog-boxes-tutorial-flame-flutter-part-3)
 - [Scoring, Storage, and Sound Tutorial - Step by Step with Flame and Flutter (Part 4 of 5)](https://jap.alekhin.io/scoring-storage-sound-tutorial-flame-flutter-part-4)
 - [Game Finishing and Packaging Tutorial - Step by Step with Flame and Flutter (Part 5 of 5)](https://jap.alekhin.io/game-finishing-packaging-tutorial-flame-flutter-part-5)
-
-### 简体中文教程 Alekhin's Beginner Tutorial Series (Simplified Chinese), translated by [HarrisonQI](https://github.com/HarrisonQi)
-
-- [Flutter 游戏开发(flame) Flame 介绍](https://www.bugcatt.com/archives/279)
-- [Flutter 游戏开发(flame) 开发 2D 休闲游戏：消灭小飞蝇(1/5)](https://www.bugcatt.com/archives/292)
-- [Flutter 游戏开发(flame) 图形和动画(2/5)](https://www.bugcatt.com/archives/560)
-- [Flutter 游戏开发(flame) 界面和弹窗(3/5)](https://www.bugcatt.com/archives/562)
-- [Flutter 游戏开发(flame) 分数, 存档和音效(4/5)](https://www.bugcatt.com/archives/564)
-- [Flutter 游戏开发(flame) 收尾和打包(5/5)](https://www.bugcatt.com/archives/731)
 
 ### Articles by [Fireslime](https://fireslime.xyz/)
 
