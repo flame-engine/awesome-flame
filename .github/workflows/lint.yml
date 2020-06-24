@@ -2,8 +2,8 @@ name: Run awesome lint
 
 on:
   push:
-    # Run against master branch only.
-    branches: [master]
+    # Run against main branch only.
+    branches: [main]
   pull_request:
     # Include events emitted on code change only.
     types: [opened, synchronize]
