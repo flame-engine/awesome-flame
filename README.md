@@ -14,7 +14,7 @@
     <a href="https://flame-engine.org">
       <img alt="Powered by Flame" src="https://img.shields.io/badge/Powered%20by-%F0%9F%94%A5-orange.svg?style=flat-square" />
     </a>
-    <a href="https://github.com/flame-engine/awesome-flame/blob/master/CONTRIBUTING.md">
+    <a href="https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md">
       <img alt="Add your project" src="https://img.shields.io/badge/-Add%20your%20project-blue?style=flat-square" />
     </a>
   </p>
@@ -115,4 +115,4 @@
 
 ## Contributing
 
-[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/master/CONTRIBUTING.md)
+[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md)
