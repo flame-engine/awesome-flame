@@ -35,6 +35,8 @@
 - [Projects](#projects)
   - [Open Source](#open-source)
   - [App Releases](#app-releases)
+- [Non-English Content](#non-english-content)
+  - [Mandarin Chinese (中文)](#mandarin-chinese-中文)
 
 ## Articles & Tutorials
 
@@ -117,6 +119,10 @@
 - KINGA - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.kinga), [iOS](https://apps.apple.com/us/app/kinga/id1506422810) - Protect the cookie from the pesky flies. By [Kevin Omyonga](https://kevinomyonga.com)
 
 - Dino Run! - [Android](https://play.google.com/store/apps/details?id=io.github.epsi95.dinorun), - You are already familiar with this game, you can play it in Chrome when there is no internet. I just added a little color to it. Also you can shout to make the little cute Dino to jump, isn't that cool?. By [Probhakar Sarkar](https://github.com/epsi95)
+
+### Non-English Content
+
+- [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
 
 ## Contributing
 
