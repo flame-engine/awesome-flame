@@ -36,7 +36,6 @@
   - [Open Source](#open-source)
   - [App Releases](#app-releases)
 - [Non-English Content](#non-english-content)
-  - [Mandarin Chinese (中文)](#mandarin-chinese-中文)
 
 ## Articles & Tutorials
 
