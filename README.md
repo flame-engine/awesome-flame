@@ -119,7 +119,7 @@
 
 - Dino Run! - [Android](https://play.google.com/store/apps/details?id=io.github.epsi95.dinorun), - You are already familiar with this game, you can play it in Chrome when there is no internet. I just added a little color to it. Also you can shout to make the little cute Dino to jump, isn't that cool?. By [Probhakar Sarkar](https://github.com/epsi95)
 
-### Non-English Content
+## Non-English Content
 
 - [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
 
