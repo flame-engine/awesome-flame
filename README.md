@@ -99,6 +99,10 @@
 
 - [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
+#### Examples
+
+- [Maze generator](https://github.com/Dannark/FlameExamples) - List of algorithm examples to solve common problems like Maze Generator and more. By [Dannark](https://github.com/Dannark/)
+
 ### App Releases
 
 #### Metroidvania
