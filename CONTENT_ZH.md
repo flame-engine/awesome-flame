@@ -2,7 +2,29 @@
 
 ## 目录
 
-- [文章和教程](#文章和教程)
+- [优质的 Flame](#优质的-flame)
+  - [目录](#目录)
+  - [文章和教程](#文章和教程)
+    - [初学教程 由 Alekhin 编写](#初学教程-由-alekhin-编写)
+    - [进阶教程 来自 Fireslime](#进阶教程-来自-fireslime)
+    - [进阶教程 来自 wolfenra.in](#进阶教程-来自-wolfenrain)
+    - [其他的文章和教程](#其他的文章和教程)
+  - [插件和文档](#插件和文档)
+    - [官方](#官方)
+    - [社区](#社区)
+  - [项目](#项目)
+    - [开源](#开源)
+      - [休闲类小游戏](#休闲类小游戏)
+      - [无尽模式？（Endless Runner）](#无尽模式endless-runner)
+      - [平台？（Platform）](#平台platform)
+      - [角色扮演游戏](#角色扮演游戏)
+    - [发布版游戏](#发布版游戏)
+      - [类恶魔城银河战士类型](#类恶魔城银河战士类型)
+      - [塔防类](#塔防类)
+      - [棋牌类](#棋牌类)
+      - [休闲](#休闲)
+  - [英文版本](#英文版本)
+  - [翻译人员名单](#翻译人员名单)
 
 ## 文章和教程
 
@@ -56,15 +78,15 @@
 - [Snaake!](https://github.com/lucasnlm/snaake-flutter) - 一个休闲的蛇游戏（贪吃蛇？？） By [lucasnlm](https://github.com/lucasnlm)
 - [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - 一个灵感来自赛博朋克风的益智游戏，在 **Flutter** 黑客马拉松Hack20上的作品。 By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
 
-#### Endless Runner
+#### 无尽模式？（Endless Runner）
 
 - [BGUG](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
-#### Platform
+#### 平台？（Platform）
 
 - [Flutters](https://github.com/impulse/flutters) - 一个融合了像素鸟和涂鸦跳跃的游戏。 By [impulse](https://github.com/impulse)
 
-#### RPG
+#### 角色扮演游戏
 
 - [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) - 简单的RPG游戏。 By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
@@ -74,19 +96,23 @@
 
 - [Tales of a Lost Mine](https://fireslime.xyz/games/tales.html) - [Android](https://play.google.com/store/apps/details?id=xyz.fireslime.tales&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) - 一个真棒平台冒险 Metroidvania 。扮演一个勇敢的探险家的角色，揭开久违的秘密。 By [FireSlime](https://fireslime.xyz)
 
-#### Tower Defense
+#### 塔防类
 
 - [Xtrike](http://www.xtrike.online/) - [Android](https://play.google.com/store/apps/details?id=online.xtrike.xtrike) - 一个很棒的战略塔防御游戏。建立你的战斗单位，摧毁敌人。 By [White Wood City](http://www.xtrike.online/)
 
-#### Board
+#### 棋牌类
 
-- Four In A Row - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.fourinarow), [iOS](https://apps.apple.com/us/app/four-in-a-row-classic/id1495540053) - 来玩经典的飞行棋！第一个穿越四块地图到终点。挑战AI，或与朋友和家人比赛。 By [Ignace Maes](https://ignacemaes.com/)
+- Four In A Row - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.fourinarow), [iOS](https://apps.apple.com/us/app/four-in-a-row-classic/id1495540053) - 来玩经典的飞行棋！第一名穿越四块地图到达终点的胜利。挑战AI，或与朋友和家人比赛。 By [Ignace Maes](https://ignacemaes.com/)
 
-#### Casual
+#### 休闲
 
 - KINGA - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.kinga), [iOS](https://apps.apple.com/us/app/kinga/id1506422810) - 保护饼干不被苍蝇吃掉。 By [Kevin Omyonga](https://kevinomyonga.com)
 
 - Dino Run! - [Android](https://play.google.com/store/apps/details?id=io.github.epsi95.dinorun), - 如果你已经熟悉了这个游戏，在没有网络时的Chrome浏览器里按空格键就可以玩了。（或者输入chrome://dino然后空格进入游戏）。我们加了一个功能，你可以大声喊叫来控制dino，是不是很酷呢？ By [Probhakar Sarkar](https://github.com/epsi95)
+
+## 英文版本
+
+[英文版本（English）](https://github.com/flame-engine/awesome-flame/blob/main/README.md)
 
 ## 翻译人员名单
 
