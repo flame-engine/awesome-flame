@@ -48,8 +48,10 @@
 - [Scoring, Storage, and Sound Tutorial - Step by Step with Flame and Flutter (Part 4 of 5)](https://jap.alekhin.io/scoring-storage-sound-tutorial-flame-flutter-part-4)
 - [Game Finishing and Packaging Tutorial - Step by Step with Flame and Flutter (Part 5 of 5)](https://jap.alekhin.io/game-finishing-packaging-tutorial-flame-flutter-part-5)
 
+<!--lint ignore double-link-->
 ### Articles by [Fireslime](https://fireslime.xyz/)
 
+<!--lint ignore double-link-->
 - [Creating a virtual controller with Stack on Flame](https://fireslime.xyz/articles/20190902_Flame_Virtual_Controller_With_Stack.html)
 - [Basic Camera usage on Flame](https://fireslime.xyz/articles/20190911_Basic_Camera_Usage_In_Flame.html)
 
@@ -62,20 +64,24 @@
 - [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa) - Build your first game with ads and i18n. By [Bo Hellgren](https://medium.com/@bo.hellgren)
 - [Flutter Web and Flame](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
 
+### Examples
+
+- [Maze generator](https://github.com/Dannark/FlameExamples) - List of algorithm examples to solve problems like Maze generation and more. By [Dannark](https://github.com/Dannark/)
+
 ## Plugins & Libraries
 
 ### Official
 
-- [flame_gamepad](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support. By [Flame Team](https://github.com/flame-engine)
-- [flame_geom](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations. By [Flame Team](https://github.com/flame-engine)
-- [flame_scrolling_sprite](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area. By [Flame Team](https://github.com/flame-engine)
-- [flame_splash_screen](https://github.com/flame-engine/flame_splash_screen) - Customizable Flame splash screen. By [Flame Team](https://github.com/flame-engine)
-- [play_games](https://github.com/flame-engine/play_games) - A simple wrapper on top of Google Play Games Services (GPGS), including auth, achievement, and more. By [Flame Team](https://github.com/flame-engine)
+<!--lint ignore double-link-->
+- [flame_gamepad](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support.
+- [flame_geom](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations.
+- [flame_scrolling_sprite](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area.
+- [play_games](https://github.com/flame-engine/play_games) - A simple wrapper on top of Google Play Games Services (GPGS), including auth, achievement, and more.
 
 ### Community
 
 - [bonfire](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
-- [flame_texturepacker](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto/flame_texturepacker)
+- [flame_texturepacker](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
 
 ## Projects
 
@@ -83,12 +89,14 @@
 
 #### Casual
 
+<!--lint ignore double-link-->
 - [Bob Box](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
 - [Snaake!](https://github.com/lucasnlm/snaake-flutter) - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
 - [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
 
 #### Endless Runner
 
+<!--lint ignore double-link-->
 - [BGUG](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
 #### Platform
@@ -103,11 +111,12 @@
 
 #### Metroidvania
 
+<!--lint ignore double-link-->
 - [Tales of a Lost Mine](https://fireslime.xyz/games/tales.html) - [Android](https://play.google.com/store/apps/details?id=xyz.fireslime.tales&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) - An awesome platform-adventure Metroidvania. Get in the role of a brave explorer and uncover the secrets of a long lost time. By [FireSlime](https://fireslime.xyz)
 
 #### Tower Defense
 
-- [Xtrike](http://www.xtrike.online/) - [Android](https://play.google.com/store/apps/details?id=online.xtrike.xtrike) - An awesome strategic tower defense game. Build your battle units and destroy enemies. By [White Wood City](http://www.xtrike.online/)
+- Xtrike - [Android](https://play.google.com/store/apps/details?id=online.xtrike.xtrike) - An awesome strategic tower defense game. Build your battle units and destroy enemies. By [White Wood City](http://www.xtrike.online/)
 
 #### Board
 
