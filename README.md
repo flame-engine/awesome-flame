@@ -129,12 +129,12 @@
 - Dino Run! - [Android](https://play.google.com/store/apps/details?id=io.github.epsi95.dinorun), - You are already familiar with this game, you can play it in Chrome when there is no internet. I just added a little color to it. Also you can shout to make the little cute Dino to jump, isn't that cool?. By [Probhakar Sarkar](https://github.com/epsi95)
 
 - Wormo [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.wormo), [iOS](https://apps.apple.com/us/app/wormo-the-game/id1530797595) - Meet Wormo the gooey worm in this wonderful casual game ! Think you can put wormo in the nest? Think again, it requires an extraordinary technique. 
-By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
+By Tommy Buonomo ([Frenchie Games])
 
 #### Reflexion
 
 - Ripple Effect Puzzle - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.rippleeffectpuzzle), [iOS](https://apps.apple.com/us/app/id1521454937) - A sophisticated variation of Sudoku.
-By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
+By Tommy Buonomo ([Frenchie Games])
 
 ## Non-English Content
 
@@ -143,3 +143,6 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 ## Contributing
 
 [Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md)
+
+
+[Frenchie Games]: https://frenchiegames.app/#/
