@@ -129,6 +129,10 @@
 
 - Dino Run! - [Android](https://play.google.com/store/apps/details?id=io.github.epsi95.dinorun), - You are already familiar with this game, you can play it in Chrome when there is no internet. I just added a little color to it. Also you can shout to make the little cute Dino to jump, isn't that cool?. By [Probhakar Sarkar](https://github.com/epsi95)
 
+#### Puzzle Games
+
+- Tile Paths - [Android](https://play.google.com/store/apps/details?id=com.naslausky.tile_paths) - Drag the tiles and find the best path to make your character collect all items while avoiding the enemy. With 10 different stages you can challenge your friends to see who gets the best highscore in every one of them. By [Naslausky](https://github.com/naslausky)
+
 ## Non-English Content
 
 - [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
