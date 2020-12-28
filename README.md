@@ -133,6 +133,10 @@
 <!--lint ignore double-link-->
 - Dhoruba - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.dhoruba), [iOS](https://apps.apple.com/ke/app/dhoruba/id1542324108) - Can You Stand The Rain? By [Kevin Omyonga](https://kevinomyonga.com)
 
+#### Puzzle Games
+
+- Tile Paths - [Android](https://play.google.com/store/apps/details?id=com.naslausky.tile_paths) - Drag the tiles and find the best path to make your character collect all items while avoiding the enemy. With 10 different stages you can challenge your friends to see who gets the best highscore in every one of them. By [Naslausky](https://github.com/naslausky)
+
 ## Non-English Content
 
 - [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
