@@ -57,7 +57,7 @@
 
 ### Articles by [wolfenra.in](https://wolfenra.in)
 
-- [Dart Box2D Fundamentals series](https://wolfenra.in/series/dart-box2d-fundamentals/)
+- [Dart Box2D Fundamentals series](https://blog.wolfenra.in/series/dart-box2d-fundamentals/)
 
 ### Other Articles & Tutorials
 
