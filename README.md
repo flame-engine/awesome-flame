@@ -151,5 +151,3 @@ By Tommy Buonomo ([Frenchie Games])
 
 [Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md)
 
-
-[frenchie games]: https://frenchiegames.app/#/
