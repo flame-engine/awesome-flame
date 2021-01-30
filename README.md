@@ -70,7 +70,8 @@
 
 ### YouTube videos
 
-- [Dino Run - Flutter Game Development Series](https://youtube.com/playlist?list=PLiZZKL9HLmWOmQgYxWHuOHOWsUUlhCCOY) by [DevKage](https://www.youtube.com/devkage)
+<!--lint ignore double-link-->
+- [Dino Run - Flutter Game Development Series](https://youtube.com/playlist?list=PLiZZKL9HLmWOmQgYxWHuOHOWsUUlhCCOY) -  An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage](https://www.youtube.com/devkage)
 
 ## Plugins & Libraries
 
@@ -104,6 +105,7 @@
 <!--lint ignore double-link-->
 - [BGUG](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
+<!--lint ignore double-link-->
 - [Dino Run](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine.  By [DevKage](https://www.youtube.com/devkage)
 
 #### Platform
@@ -139,6 +141,7 @@
 <!--lint ignore double-link-->
 - Dhoruba - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.dhoruba), [iOS](https://apps.apple.com/ke/app/dhoruba/id1542324108) - Can You Stand The Rain? By [Kevin Omyonga](https://kevinomyonga.com)
 
+<!--lint ignore double-link-->
 - Dino Run - [Android](https://play.google.com/store/apps/details?id=com.nobs.dino_run) - Dino Run is casual 2D infinite side scroller game, where you play as a cute little dino. All you have to do is avoid getting hit by enemies too many times. The longer you can do that, higher your score goes. By [DevKage](https://www.youtube.com/devkage)
 
 #### Puzzle Games
