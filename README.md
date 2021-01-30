@@ -142,9 +142,17 @@
 - Dhoruba - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.dhoruba), [iOS](https://apps.apple.com/ke/app/dhoruba/id1542324108) - Can You Stand The Rain? By [Kevin Omyonga](https://kevinomyonga.com)
 
 <!--lint ignore double-link-->
+- Wormo - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.wormo), [iOS](https://apps.apple.com/us/app/wormo-the-game/id1530797595) - Meet Wormo the gooey worm in this wonderful casual game! Think you can put wormo in the nest? Think again, it requires an extraordinary technique. 
+By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
+
+<!--lint ignore double-link-->
 - Dino Run - [Android](https://play.google.com/store/apps/details?id=com.nobs.dino_run) - Dino Run is casual 2D infinite side scroller game, where you play as a cute little dino. All you have to do is avoid getting hit by enemies too many times. The longer you can do that, higher your score goes. By [DevKage](https://www.youtube.com/devkage)
 
 #### Puzzle Games
+
+<!--lint ignore double-link-->
+- Ripple Effect Puzzle - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.rippleeffectpuzzle), [iOS](https://apps.apple.com/us/app/id1521454937) - A sophisticated variation of Sudoku.
+By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - Tile Paths - [Android](https://play.google.com/store/apps/details?id=com.naslausky.tile_paths) - Drag the tiles and find the best path to make your character collect all items while avoiding the enemy. With 10 different stages you can challenge your friends to see who gets the best highscore in every one of them. By [Naslausky](https://github.com/naslausky)
 
