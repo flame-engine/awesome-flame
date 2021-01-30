@@ -57,7 +57,7 @@
 
 ### Articles by [wolfenra.in](https://wolfenra.in)
 
-- [Dart Box2D Fundamentals series](https://wolfenra.in/series/dart-box2d-fundamentals/)
+- [Dart Box2D Fundamentals series](https://blog.wolfenra.in/series/dart-box2d-fundamentals/)
 
 ### Other Articles & Tutorials
 
@@ -93,6 +93,7 @@
 - [Bob Box](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
 - [Snaake!](https://github.com/lucasnlm/snaake-flutter) - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
 - [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
+- [Ant Squash](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
 
 #### Endless Runner
 
@@ -124,6 +125,7 @@
 
 #### Casual
 
+<!--lint ignore double-link-->
 - KINGA - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.kinga), [iOS](https://apps.apple.com/us/app/kinga/id1506422810) - Protect the cookie from the pesky flies. By [Kevin Omyonga](https://kevinomyonga.com)
 
 - Dino Run! - [Android](https://play.google.com/store/apps/details?id=io.github.epsi95.dinorun), - You are already familiar with this game, you can play it in Chrome when there is no internet. I just added a little color to it. Also you can shout to make the little cute Dino to jump, isn't that cool?. By [Probhakar Sarkar](https://github.com/epsi95)
@@ -135,6 +137,11 @@ By Tommy Buonomo ([Frenchie Games])
 
 - Ripple Effect Puzzle - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.rippleeffectpuzzle), [iOS](https://apps.apple.com/us/app/id1521454937) - A sophisticated variation of Sudoku.
 By Tommy Buonomo ([Frenchie Games])
+
+<!--lint ignore double-link-->
+- Dhoruba - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.dhoruba), [iOS](https://apps.apple.com/ke/app/dhoruba/id1542324108) - Can You Stand The Rain? By [Kevin Omyonga](https://kevinomyonga.com)
+
+- Tile Paths - [Android](https://play.google.com/store/apps/details?id=com.naslausky.tile_paths) - Drag the tiles and find the best path to make your character collect all items while avoiding the enemy. With 10 different stages you can challenge your friends to see who gets the best highscore in every one of them. By [Naslausky](https://github.com/naslausky)
 
 ## Non-English Content
 
