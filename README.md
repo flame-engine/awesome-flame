@@ -133,11 +133,13 @@
 <!--lint ignore double-link-->
 - Dhoruba - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.dhoruba), [iOS](https://apps.apple.com/ke/app/dhoruba/id1542324108) - Can You Stand The Rain? By [Kevin Omyonga](https://kevinomyonga.com)
 
+<!--lint ignore double-link-->
 - Wormo - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.wormo), [iOS](https://apps.apple.com/us/app/wormo-the-game/id1530797595) - Meet Wormo the gooey worm in this wonderful casual game! Think you can put wormo in the nest? Think again, it requires an extraordinary technique. 
 By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 #### Puzzle Games
 
+<!--lint ignore double-link-->
 - Ripple Effect Puzzle - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.rippleeffectpuzzle), [iOS](https://apps.apple.com/us/app/id1521454937) - A sophisticated variation of Sudoku.
 By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
