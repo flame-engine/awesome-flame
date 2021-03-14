@@ -117,6 +117,10 @@
 
 ### App Releases
 
+#### Arcade
+
+- Air Hockey - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.airhockey), [iOS](https://apps.apple.com/us/app/air-hockey-classic/id1535374629) - Play the classic 'Air Hockey' arcade game now on your mobile device! The game features a challenging single player modus with multiple difficulty levels as well as a local multiplayer modus so you can try and beat friends and family. By [Ignace Maes](https://ignacemaes.com/)
+
 #### Board
 
 - Four In A Row - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.fourinarow), [iOS](https://apps.apple.com/us/app/four-in-a-row-classic/id1495540053) - Play the classic 'Four In A Row' board game! Will you be the first to connect 4 of your chips? Challenge the AI, or play against your friends and family. By [Ignace Maes](https://ignacemaes.com/)
