@@ -119,10 +119,12 @@
 
 #### Arcade
 
+<!--lint ignore double-link-->
 - Air Hockey Classic - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.airhockey), [iOS](https://apps.apple.com/us/app/air-hockey-classic/id1535374629) - Play the classic 'Air Hockey' arcade game now on your mobile device! By [Ignace Maes](https://ignacemaes.com/)
 
 #### Board
 
+<!--lint ignore double-link-->
 - Four In A Row - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.fourinarow), [iOS](https://apps.apple.com/us/app/four-in-a-row-classic/id1495540053) - Play the classic 'Four In A Row' board game! Will you be the first to connect 4 of your chips? Challenge the AI, or play against your friends and family. By [Ignace Maes](https://ignacemaes.com/)
 
 #### Casual
@@ -155,6 +157,7 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 #### Sports
 
+<!--lint ignore double-link-->
 - Pool Ball Classic - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.poolball), [iOS](https://apps.apple.com/us/app/pool-ball-classic/id1557034712) - Play 8 Ball Pool like you know and love on your mobile device featuring 3D graphics, realistic physics, and a challenging AI mode. By [Ignace Maes](https://ignacemaes.com/)
 
 #### Tower Defense
