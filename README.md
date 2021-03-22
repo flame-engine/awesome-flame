@@ -119,7 +119,7 @@
 
 #### Arcade
 
-- Air Hockey - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.airhockey), [iOS](https://apps.apple.com/us/app/air-hockey-classic/id1535374629) - Play the classic 'Air Hockey' arcade game now on your mobile device! The game features a challenging single player modus with multiple difficulty levels as well as a local multiplayer modus so you can try and beat friends and family. By [Ignace Maes](https://ignacemaes.com/)
+- Air Hockey - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.airhockey), [iOS](https://apps.apple.com/us/app/air-hockey-classic/id1535374629) - Play the classic 'Air Hockey' arcade game now on your mobile device! By [Ignace Maes](https://ignacemaes.com/)
 
 #### Board
 
