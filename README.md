@@ -117,17 +117,14 @@
 
 ### App Releases
 
-#### Metroidvania
+#### Arcade
 
 <!--lint ignore double-link-->
-- [Tales of a Lost Mine](https://fireslime.xyz/games/tales.html) - [Android](https://play.google.com/store/apps/details?id=xyz.fireslime.tales&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) - An awesome platform-adventure Metroidvania. Get in the role of a brave explorer and uncover the secrets of a long lost time. By [FireSlime](https://fireslime.xyz)
-
-#### Tower Defense
-
-- Xtrike - [Android](https://play.google.com/store/apps/details?id=online.xtrike.xtrike) - An awesome strategic tower defense game. Build your battle units and destroy enemies. By [White Wood City](http://www.xtrike.online/)
+- Air Hockey Classic - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.airhockey), [iOS](https://apps.apple.com/us/app/air-hockey-classic/id1535374629) - Play the classic 'Air Hockey' arcade game now on your mobile device! By [Ignace Maes](https://ignacemaes.com/)
 
 #### Board
 
+<!--lint ignore double-link-->
 - Four In A Row - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.fourinarow), [iOS](https://apps.apple.com/us/app/four-in-a-row-classic/id1495540053) - Play the classic 'Four In A Row' board game! Will you be the first to connect 4 of your chips? Challenge the AI, or play against your friends and family. By [Ignace Maes](https://ignacemaes.com/)
 
 #### Casual
@@ -145,6 +142,11 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 <!--lint ignore double-link-->
 - Dino Run - [Android](https://play.google.com/store/apps/details?id=com.nobs.dino_run) - Dino Run is casual 2D infinite side scroller game, where you play as a cute little dino. All you have to do is avoid getting hit by enemies too many times. The longer you can do that, higher your score goes. By [DevKage](https://www.youtube.com/devkage)
 
+#### Metroidvania
+
+<!--lint ignore double-link-->
+- [Tales of a Lost Mine](https://fireslime.xyz/games/tales.html) - [Android](https://play.google.com/store/apps/details?id=xyz.fireslime.tales&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) - An awesome platform-adventure Metroidvania. Get in the role of a brave explorer and uncover the secrets of a long lost time. By [FireSlime](https://fireslime.xyz)
+
 #### Puzzle Games
 
 <!--lint ignore double-link-->
@@ -152,6 +154,15 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - Tile Paths - [Android](https://play.google.com/store/apps/details?id=com.naslausky.tile_paths) - Drag the tiles and find the best path to make your character collect all items while avoiding the enemy. With 10 different stages you can challenge your friends to see who gets the best highscore in every one of them. By [Naslausky](https://github.com/naslausky)
+
+#### Sports
+
+<!--lint ignore double-link-->
+- Pool Ball Classic - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.poolball), [iOS](https://apps.apple.com/us/app/pool-ball-classic/id1557034712) - Play 8 Ball Pool like you know and love on your mobile device featuring 3D graphics, realistic physics, and a challenging AI mode. By [Ignace Maes](https://ignacemaes.com/)
+
+#### Tower Defense
+
+- Xtrike - [Android](https://play.google.com/store/apps/details?id=online.xtrike.xtrike) - An awesome strategic tower defense game. Build your battle units and destroy enemies. By [White Wood City](http://www.xtrike.online/)
 
 ## Non-English Content
 
