@@ -114,7 +114,7 @@
 
 #### Platform
 
-- [Flutters](https://github.com/impulse/flutters) - A mixture of Flappy Bird and Doodle Jump. By [impulse](https://github.com/impulse)
+- [Flutters](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
 
 #### RPG
 
