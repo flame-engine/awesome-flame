@@ -12,8 +12,7 @@
       <img alt="License: CC0" src="https://img.shields.io/badge/license-CC0-lightgray?style=flat-square" />
     </a>
     <a href="https://flame-engine.org">
-      <img alt="Powered by Flame" src="https://img
-.shields.io/badge/Powered%20by-%F0%9F%94%A5-orange.svg?style=flat-square" />
+      <img alt="Powered by Flame" src="https://img.shields.io/badge/Powered%20by-%F0%9F%94%A5-orange.svg?style=flat-square" />
     </a>
     <a href="https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md">
       <img alt="Add your project" src="https://img.shields.io/badge/-Add%20your%20project-blue?style=flat-square" />
@@ -104,7 +103,6 @@
 - [Ant Squash](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
 - [Color Mixer](https://github.com/androideen/color_mixer_flame) - A color mixer game built with Flame 1.0.0-rc8. Tap 2 colors to mix them and help player pass obstacles.
 
-<!--lint ignore double-link-->
 - [Spacescape](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage)
 
 #### Endless Runner
@@ -112,7 +110,6 @@
 <!--lint ignore double-link-->
 - [BGUG](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
-<!--lint ignore double-link-->
 - [Dino Run](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage)
 
 #### Platform
