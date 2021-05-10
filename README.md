@@ -66,7 +66,10 @@
 - [Flutter Web and Flame](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
 
 <!--lint ignore double-link-->
-- [Dino Run - Flutter Game Development Series](https://youtube.com/playlist?list=PLiZZKL9HLmWOmQgYxWHuOHOWsUUlhCCOY) - An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage](https://www.youtube.com/devkage)
+- [Dino Run - Flutter Game Development Series with Flame](https://youtube.com/playlist?list=PLiZZKL9HLmWOmQgYxWHuOHOWsUUlhCCOY) - An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage](https://www.youtube.com/devkage)
+
+<!--lint ignore double-link-->
+- [Spacescape - Flutter Game Development Series with Flame](https://www.youtube.com/playlist?list=PLiZZKL9HLmWPL0URlq9WLng1A_g1LDuxx) - An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage](https://www.youtube.com/devkage)
 
 ### Examples
 
@@ -98,15 +101,16 @@
 - [Snaake!](https://github.com/lucasnlm/snaake-flutter) - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
 - [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
 - [Ant Squash](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
-- [Color Mixer](https://github.com/androideen/color_mixer_flame) - A color mixer game built with Flame 1.0.0-rc8. Tap 2 colors to mix them and help player pass obstacles. 
+- [Color Mixer](https://github.com/androideen/color_mixer_flame) - A color mixer game built with Flame 1.0.0-rc8. Tap 2 colors to mix them and help player pass obstacles.
+
+- [Spacescape](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage)
 
 #### Endless Runner
 
 <!--lint ignore double-link-->
 - [BGUG](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
-<!--lint ignore double-link-->
-- [Dino Run](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine.  By [DevKage](https://www.youtube.com/devkage)
+- [Dino Run](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage)
 
 #### Platform
 
@@ -139,9 +143,6 @@
 <!--lint ignore double-link-->
 - Wormo - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.wormo), [iOS](https://apps.apple.com/us/app/wormo-the-game/id1530797595) - Meet Wormo the gooey worm in this wonderful casual game! Think you can put wormo in the nest? Think again, it requires an extraordinary technique. 
 By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
-
-<!--lint ignore double-link-->
-- Dino Run - [Android](https://play.google.com/store/apps/details?id=com.nobs.dino_run) - Dino Run is casual 2D infinite side scroller game, where you play as a cute little dino. All you have to do is avoid getting hit by enemies too many times. The longer you can do that, higher your score goes. By [DevKage](https://www.youtube.com/devkage)
 
 #### Metroidvania
 
