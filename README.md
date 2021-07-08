@@ -152,7 +152,7 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 #### Online Multiplayer
 
 <!--lint ignore double-link-->
-- Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
+- Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [Github](https://github.com/Shadow60539/club_penguin_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
 
 #### Puzzle Games
 
