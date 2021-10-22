@@ -61,6 +61,7 @@
 
 ### Tutorials by [raywenderlich.com](https://www.raywenderlich.com/)
 
+<!--lint ignore double-link-->
 - [Building Games in Flutter with Flame: Getting Started](https://www.raywenderlich.com/27407121-building-games-in-flutter-with-flame-getting-started) By [Vincenzo Guzzi](https://twitter.com/vguzzi_dev)
 
 ### Other Articles & Tutorials
