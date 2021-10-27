@@ -141,6 +141,9 @@
 - Dhoruba - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.dhoruba), [iOS](https://apps.apple.com/ke/app/dhoruba/id1542324108) - Can You Stand The Rain? By [Kevin Omyonga](https://kevinomyonga.com)
 
 <!--lint ignore double-link-->
+- Toilet Racer - [Android](https://play.google.com/store/apps/details?id=dr.achim.toilet_racer) - Turn your bathroom into a magical sanctuary and become the toilet ninja! By [Philipp Mudra](https://github.com/PMudra), [Tim Wiechmann](https://github.com/drachim-dev)
+
+<!--lint ignore double-link-->
 - Wormo - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.wormo), [iOS](https://apps.apple.com/us/app/wormo-the-game/id1530797595) - Meet Wormo the gooey worm in this wonderful casual game! Think you can put wormo in the nest? Think again, it requires an extraordinary technique. 
 By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
