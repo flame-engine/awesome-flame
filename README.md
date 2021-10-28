@@ -152,6 +152,11 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 <!--lint ignore double-link-->
 - [Tales of a Lost Mine](https://fireslime.xyz/games/tales.html) - [Android](https://play.google.com/store/apps/details?id=xyz.fireslime.tales&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) - An awesome platform-adventure Metroidvania. Get in the role of a brave explorer and uncover the secrets of a long lost time. By [FireSlime](https://fireslime.xyz)
 
+#### Online Multiplayer
+
+<!--lint ignore double-link-->
+- Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub](https://github.com/Shadow60539/club_penguin_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
+
 #### Puzzle Games
 
 <!--lint ignore double-link-->
