@@ -70,14 +70,12 @@
 
 - [Flutter Web and Flame](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
 
-<!--lint ignore double-link-->
-- [Simple Platformer - Flame Game Development Series](https://youtube.com/playlist?list=PLiZZKL9HLmWPyd808sda2ydG-dhexNONV) - 2D platformer without using Forge2d. By [DevKage](https://www.youtube.com/devkage)
+- [Simple Platformer - Flame Game Development Series](https://youtube.com/playlist?list=PLiZZKL9HLmWPyd808sda2ydG-dhexNONV) - 2D platformer without using Forge2d. By [DevKage][1]
+
+- [Dino Run - Flutter Game Development Series with Flame](https://youtube.com/playlist?list=PLiZZKL9HLmWOmQgYxWHuOHOWsUUlhCCOY) - An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage][1]
 
 <!--lint ignore double-link-->
-- [Dino Run - Flutter Game Development Series with Flame](https://youtube.com/playlist?list=PLiZZKL9HLmWOmQgYxWHuOHOWsUUlhCCOY) - An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage](https://www.youtube.com/devkage)
-
-<!--lint ignore double-link-->
-- [Spacescape - Flutter Game Development Series with Flame](https://www.youtube.com/playlist?list=PLiZZKL9HLmWPL0URlq9WLng1A_g1LDuxx) - An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage](https://www.youtube.com/devkage)
+- [Spacescape - Flutter Game Development Series with Flame](https://www.youtube.com/playlist?list=PLiZZKL9HLmWPL0URlq9WLng1A_g1LDuxx) - An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage][1]
 
 ### Examples
 
@@ -111,20 +109,20 @@
 - [Ant Squash](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
 - [Color Mixer](https://github.com/androideen/color_mixer_flame) - A color mixer game built with Flame 1.0.0-rc8. Tap 2 colors to mix them and help player pass obstacles.
 - [Flappy Flame](https://github.com/Pierre-Monier/flappy_flame) - A flappy bird clone made with Flame 1.0.0-rc5. By [Pierre-Monier](https://github.com/Pierre-Monier)
-- [Spacescape](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage)
+- [Spacescape](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1]
 
 #### Endless Runner
 
 <!--lint ignore double-link-->
 - [BGUG](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
-- [Dino Run](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage)
+- [Dino Run](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage][1]
 
 #### Platformer
 
 - [Flutters](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
 
-- [Simple Platformer](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage](https://github.com/ufrshubham)
+- [Simple Platformer](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage][1]
 
 #### RPG
 
@@ -196,3 +194,6 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 ## Contributing
 
 [Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md)
+
+<!-- Add ref links here -->
+[1]: <https://www.youtube.com/devkage> "DevKage"
