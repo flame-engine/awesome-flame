@@ -59,6 +59,17 @@
 
 - [Dart Box2D Fundamentals series](https://blog.wolfenra.in/series/dart-box2d-fundamentals/)
 
+### Articles by [Yayocode][2]
+
+- [1. Getting started: Setting up the project](https://yayocode.blogspot.com/2022/08/flame-getting-started-setting-up-project_4.html)
+- [2. The world, bodies, shapes, and fixtures](https://yayocode.blogspot.com/2022/08/flame-world-bodies-shapes-and-fixtures.html)
+- [3. Body types: dynamic, static & kinematic](https://yayocode.blogspot.com/2022/08/flame-body-types-dynamic-static.html)
+- [4. Friction, density & restitution](https://yayocode.blogspot.com/2022/08/flame-friction-density-restitution.html)
+- [5. Forces, impulses & linear velocity](https://yayocode.blogspot.com/2022/08/flame-forces-impulses-linear-velocity.html)
+- [6. Bodies and sprites](https://yayocode.blogspot.com/2022/08/flame-bodies-and-sprites.html)
+- [7. Collisions](https://yayocode.blogspot.com/2022/08/flame-collisions.html)
+- [8. Collisions with animated sprites](https://yayocode.blogspot.com/2022/08/flame-collisions-with-animated-sprites.html)
+
 ### Tutorials by [raywenderlich.com](https://www.raywenderlich.com/)
 
 <!--lint ignore double-link-->
@@ -109,6 +120,7 @@
 - [Color Mixer](https://github.com/androideen/color_mixer_flame) - A color mixer game built with Flame 1.0.0-rc8. Tap 2 colors to mix them and help player pass obstacles.
 - [Flappy Flame](https://github.com/Pierre-Monier/flappy_flame) - A flappy bird clone made with Flame 1.0.0-rc5. By [Pierre-Monier](https://github.com/Pierre-Monier)
 - [Spacescape](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1].
+- [New Super Jumper](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
 
 #### Endless Runner
 
@@ -201,3 +213,4 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 <!-- Add ref links here -->
 [1]: <https://www.youtube.com/devkage> 'DevKage'
+[2]: <https://www.yayocode.com> 'Yayocode'
