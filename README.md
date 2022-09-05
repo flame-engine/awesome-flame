@@ -105,6 +105,8 @@
 
 - [bonfire](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 - [flame_texturepacker](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
+- [flame_tiled_utils](https://github.com/ASGAlex/flame_tiled_utils) - Extension for flame_tiled allows to process every tile of map, brings animated tiles support and provides rendering optimisation. By [ASGAlex](https://github.com/ASGAlex)
+- [flame_quad_tree](https://github.com/ASGAlex/flame_quad_tree) - Quad Tree collision detection system. By [ASGAlex](https://github.com/ASGAlex)
 
 ## Projects
 
