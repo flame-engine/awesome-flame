@@ -169,6 +169,9 @@
 - Wormo - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.wormo), [iOS](https://apps.apple.com/us/app/wormo-the-game/id1530797595) - Meet Wormo the gooey worm in this wonderful casual game! Think you can put wormo in the nest? Think again, it requires an extraordinary technique. 
 By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
+<!--lint ignore double-link-->
+- Hyper Hexagon - [Web version](https://thecocce.itch.io/hyper-hexagon) - Hexagonal board game challenge - A classical and futuristic. Inspired by the old classic Hexxagon '90s game. By [TheCocce](https://github.com/thecocce/)
+
 #### Metroidvania
 
 <!--lint ignore double-link-->
