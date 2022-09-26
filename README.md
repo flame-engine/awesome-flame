@@ -210,6 +210,7 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 ## Non-English Content
 
 - [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
+- [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
 ## Contributing
 
