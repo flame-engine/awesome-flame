@@ -42,7 +42,7 @@
 ### Articles by [Happy Makadiya at Simform Solutions](https://medium.com/@happy.m)
 
 - [Basics of Game Development using Flame](https://medium.com/simform-engineering/basics-of-game-development-using-flame-bee1b8cf7320)
-- [Build Collision-Based Game Using Flame in Flutter](https://medium.com/simform-engineering/build-collision-based-game-using-flame-in-flutter-ba1fc86702bd) (2022-10-09)
+- [Build Collision-Based Game Using Flame in Flutter](https://medium.com/simform-engineering/build-collision-based-game-using-flame-in-flutter-ba1fc86702bd) (2022-10-09).
 
 
 ### Articles by [Yayocode][2]
@@ -59,11 +59,11 @@
 ### Tutorials by [raywenderlich.com](https://www.raywenderlich.com/)
 
 <!--lint ignore double-link-->
-- [Building Games in Flutter with Flame: Getting Started](https://www.raywenderlich.com/27407121-building-games-in-flutter-with-flame-getting-started) - By [Vincenzo Guzzi](https://twitter.com/vguzzi_dev) (2021-10-21)
+- [Building Games in Flutter with Flame: Getting Started](https://www.raywenderlich.com/27407121-building-games-in-flutter-with-flame-getting-started) - By [Vincenzo Guzzi](https://twitter.com/vguzzi_dev) (2021-10-21).
 
-### Articles by [wolfenra.in](https://wolfenra.in) (2020-07-13)
+### Articles by [wolfenra.in](https://wolfenra.in)
 
-- [Dart Box2D Fundamentals series](https://blog.wolfenra.in/series/dart-box2d-fundamentals/)
+- [Dart Box2D Fundamentals series](https://blog.wolfenra.in/series/dart-box2d-fundamentals/) (2020-07-13).
 
 ### Other Articles & Tutorials
 
