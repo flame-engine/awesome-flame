@@ -39,25 +39,11 @@
 
 ## Articles & Tutorials
 
-### Beginner Tutorial Series by [Alekhin](https://github.com/japalekhin)
+### Articles by [Happy Makadiya at Simform Solutions](https://medium.com/@happy.m)
 
-- [Create a Mobile Game with Flutter and Flame - Beginner Tutorial (Introduction)](https://jap.alekhin.io/create-mobile-game-flutter-flame-beginner-tutorial)
-- [2D Casual Mobile Game Tutorial - Step by Step with Flame and Flutter (Part 1 of 5)](https://jap.alekhin.io/2d-casual-mobile-game-tutorial-flame-flutter-part-1)
-- [Game Graphics and Animation Tutorial - Step by Step with Flame and Flutter (Part 2 of 5)](https://jap.alekhin.io/game-graphics-and-animation-tutorial-flame-flutter-part-2)
-- [Views and Dialog Boxes Tutorial - Step by Step with Flame and Flutter (Part 3 of 5)](https://jap.alekhin.io/views-dialog-boxes-tutorial-flame-flutter-part-3)
-- [Scoring, Storage, and Sound Tutorial - Step by Step with Flame and Flutter (Part 4 of 5)](https://jap.alekhin.io/scoring-storage-sound-tutorial-flame-flutter-part-4)
-- [Game Finishing and Packaging Tutorial - Step by Step with Flame and Flutter (Part 5 of 5)](https://jap.alekhin.io/game-finishing-packaging-tutorial-flame-flutter-part-5)
+- [Basics of Game Development using Flame](https://medium.com/simform-engineering/basics-of-game-development-using-flame-bee1b8cf7320)
+- [Build Collision-Based Game Using Flame in Flutter](https://medium.com/simform-engineering/build-collision-based-game-using-flame-in-flutter-ba1fc86702bd) (2022-10-09)
 
-<!--lint ignore double-link-->
-### Articles by [Fireslime](https://fireslime.xyz/)
-
-<!--lint ignore double-link-->
-- [Creating a virtual controller with Stack on Flame](https://fireslime.xyz/articles/20190902_Flame_Virtual_Controller_With_Stack.html)
-- [Basic Camera usage on Flame](https://fireslime.xyz/articles/20190911_Basic_Camera_Usage_In_Flame.html)
-
-### Articles by [wolfenra.in](https://wolfenra.in)
-
-- [Dart Box2D Fundamentals series](https://blog.wolfenra.in/series/dart-box2d-fundamentals/)
 
 ### Articles by [Yayocode][2]
 
@@ -68,12 +54,16 @@
 - [5. Forces, impulses & linear velocity](https://yayocode.blogspot.com/2022/08/flame-forces-impulses-linear-velocity.html)
 - [6. Bodies and sprites](https://yayocode.blogspot.com/2022/08/flame-bodies-and-sprites.html)
 - [7. Collisions](https://yayocode.blogspot.com/2022/08/flame-collisions.html)
-- [8. Collisions with animated sprites](https://yayocode.blogspot.com/2022/08/flame-collisions-with-animated-sprites.html)
+- [8. Collisions with animated sprites](https://yayocode.blogspot.com/2022/08/flame-collisions-with-animated-sprites.html) (2022-08-15)
 
 ### Tutorials by [raywenderlich.com](https://www.raywenderlich.com/)
 
 <!--lint ignore double-link-->
-- [Building Games in Flutter with Flame: Getting Started](https://www.raywenderlich.com/27407121-building-games-in-flutter-with-flame-getting-started) - By [Vincenzo Guzzi](https://twitter.com/vguzzi_dev)
+- [Building Games in Flutter with Flame: Getting Started](https://www.raywenderlich.com/27407121-building-games-in-flutter-with-flame-getting-started) - By [Vincenzo Guzzi](https://twitter.com/vguzzi_dev) (2021-10-21)
+
+### Articles by [wolfenra.in](https://wolfenra.in) (2020-07-13)
+
+- [Dart Box2D Fundamentals series](https://blog.wolfenra.in/series/dart-box2d-fundamentals/)
 
 ### Other Articles & Tutorials
 
@@ -86,6 +76,27 @@
 - [Dino Run - Flutter Game Development Series with Flame](https://youtube.com/playlist?list=PLiZZKL9HLmWOmQgYxWHuOHOWsUUlhCCOY) - An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage][1].
 
 - [Spacescape - Flutter Game Development Series with Flame](https://www.youtube.com/playlist?list=PLiZZKL9HLmWPL0URlq9WLng1A_g1LDuxx) - An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage][1].
+
+### Deprecated Articles & Tutorials
+
+The tutorials in this section were written a long time ago and you'll have to do a lot of changes
+to get their code to run with any up-to-date version of Flame.
+
+#### Beginner Tutorial Series by [Alekhin](https://github.com/japalekhin)
+
+- [Create a Mobile Game with Flutter and Flame - Beginner Tutorial (Introduction)](https://jap.alekhin.io/create-mobile-game-flutter-flame-beginner-tutorial)
+- [2D Casual Mobile Game Tutorial - Step by Step with Flame and Flutter (Part 1 of 5)](https://jap.alekhin.io/2d-casual-mobile-game-tutorial-flame-flutter-part-1)
+- [Game Graphics and Animation Tutorial - Step by Step with Flame and Flutter (Part 2 of 5)](https://jap.alekhin.io/game-graphics-and-animation-tutorial-flame-flutter-part-2)
+- [Views and Dialog Boxes Tutorial - Step by Step with Flame and Flutter (Part 3 of 5)](https://jap.alekhin.io/views-dialog-boxes-tutorial-flame-flutter-part-3)
+- [Scoring, Storage, and Sound Tutorial - Step by Step with Flame and Flutter (Part 4 of 5)](https://jap.alekhin.io/scoring-storage-sound-tutorial-flame-flutter-part-4)
+- [Game Finishing and Packaging Tutorial - Step by Step with Flame and Flutter (Part 5 of 5)](https://jap.alekhin.io/game-finishing-packaging-tutorial-flame-flutter-part-5)
+
+<!--lint ignore double-link-->
+#### Articles by [Fireslime](https://fireslime.xyz/)
+
+<!--lint ignore double-link-->
+- [Creating a virtual controller with Stack on Flame](https://fireslime.xyz/articles/20190902_Flame_Virtual_Controller_With_Stack.html)
+- [Basic Camera usage on Flame](https://fireslime.xyz/articles/20190911_Basic_Camera_Usage_In_Flame.html)
 
 ### Examples
 
