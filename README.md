@@ -42,8 +42,7 @@
 ### Articles by [Happy Makadiya at Simform Solutions](https://medium.com/@happy.m)
 
 - [Basics of Game Development using Flame](https://medium.com/simform-engineering/basics-of-game-development-using-flame-bee1b8cf7320)
-- [Build Collision-Based Game Using Flame in Flutter](https://medium.com/simform-engineering/build-collision-based-game-using-flame-in-flutter-ba1fc86702bd) (2022-10-09).
-
+- [Build Collision-Based Game Using Flame in Flutter](https://medium.com/simform-engineering/build-collision-based-game-using-flame-in-flutter-ba1fc86702bd) - (2022-10-09).
 
 ### Articles by [Yayocode][2]
 
@@ -54,16 +53,16 @@
 - [5. Forces, impulses & linear velocity](https://yayocode.blogspot.com/2022/08/flame-forces-impulses-linear-velocity.html)
 - [6. Bodies and sprites](https://yayocode.blogspot.com/2022/08/flame-bodies-and-sprites.html)
 - [7. Collisions](https://yayocode.blogspot.com/2022/08/flame-collisions.html)
-- [8. Collisions with animated sprites](https://yayocode.blogspot.com/2022/08/flame-collisions-with-animated-sprites.html) (2022-08-15)
+- [8. Collisions with animated sprites](https://yayocode.blogspot.com/2022/08/flame-collisions-with-animated-sprites.html) - (2022-08-15).
 
 ### Tutorials by [raywenderlich.com](https://www.raywenderlich.com/)
 
 <!--lint ignore double-link-->
-- [Building Games in Flutter with Flame: Getting Started](https://www.raywenderlich.com/27407121-building-games-in-flutter-with-flame-getting-started) - By [Vincenzo Guzzi](https://twitter.com/vguzzi_dev) (2021-10-21).
+- [Building Games in Flutter with Flame: Getting Started](https://www.raywenderlich.com/27407121-building-games-in-flutter-with-flame-getting-started) - By [Vincenzo Guzzi](https://twitter.com/vguzzi_dev) - (2021-10-21).
 
 ### Articles by [wolfenra.in](https://wolfenra.in)
 
-- [Dart Box2D Fundamentals series](https://blog.wolfenra.in/series/dart-box2d-fundamentals/) (2020-07-13).
+- [Dart Box2D Fundamentals series](https://blog.wolfenra.in/series/dart-box2d-fundamentals/) - (2020-07-13).
 
 ### Other Articles & Tutorials
 
