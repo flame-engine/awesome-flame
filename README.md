@@ -165,6 +165,8 @@ to get their code to run with any up-to-date version of Flame.
 <!--lint ignore double-link-->
 - Omnichess - [Web](https://www.omnichess.club), [Android](https://play.google.com/store/apps/details?id=club.omnichess), [iOS](https://apps.apple.com/us/app/omnichess/id1593756511) - Create and play your own Chess variants! 2-8 players. Online/AI. Square/Hexagonal tiled boards. By [Chirag Patel](https://github.com/orgs/Omnimind-Ltd)
 
+- [Chinese Checkers](https://www.dong.digital/chinesecheckers/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.chinesecheckers), [iOS](https://apps.apple.com/app/chinesecheckers/id1596651307) - Play Chinese Checkers (Sternhalma), a popular strategy board game, online with friends/strangers or offline with bots. By [Dong Digital][3]
+
 #### Casual
 
 <!--lint ignore double-link-->
@@ -182,6 +184,12 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 <!--lint ignore double-link-->
 - Hyper Hexagon - [Web version](https://thecocce.itch.io/hyper-hexagon) - Hexagonal board game challenge - A classical and futuristic. Inspired by the old classic Hexxagon '90s game. By [TheCocce](https://github.com/thecocce/)
+
+- [Brick Mania](https://www.dong.digital/brickmania/) - [Android](https://play.google.com/store/apps/details?id=net.countrymania.brick), [iOS](https://apps.apple.com/us/app/brick-mania/id1574554961) - A fantastic reinvention of the classic Brick Breaker game: relaxing and yet super satisfying. By [Dong Digital][3]
+
+#### Educational
+
+- [Sky Academy](https://www.dong.digital/skyacademy/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.skyacademy), [iOS](https://apps.apple.com/us/app/sky-academy/id1571488252) - Learn to recognize all the constellations and brightest stars from a gold medal winner of the International Astronomy Olympiad. By [Dong Digital][3]
 
 #### Metroidvania
 
@@ -206,6 +214,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - Tile Paths - [Android](https://play.google.com/store/apps/details?id=com.naslausky.tile_paths) - Drag the tiles and find the best path to make your character collect all items while avoiding the enemy. With 10 different stages you can challenge your friends to see who gets the best highscore in every one of them. By [Naslausky](https://github.com/naslausky)
 
+- [Sorting Puzzle](https://www.dong.digital/sortingpuzzle/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.sortingpuzzle), [iOS](https://apps.apple.com/app/sorting-puzzle/id1641001729) - Color sorting game reinvented: move and combine to solve puzzles. By [Dong Digital][3]
+
 #### Sports
 
 <!--lint ignore double-link-->
@@ -229,3 +239,4 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 <!-- Add ref links here -->
 [1]: <https://www.youtube.com/devkage> 'DevKage'
 [2]: <https://www.yayocode.com> 'Yayocode'
+[3]: <https://www.dong.digital> 'Dong Digital'
