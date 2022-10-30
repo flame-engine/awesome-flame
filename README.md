@@ -35,6 +35,7 @@
 - [Projects](#projects)
   - [Open Source](#open-source)
   - [App Releases](#app-releases)
+- [Resources](#resources)
 - [Non-English Content](#non-english-content)
 
 ## Articles & Tutorials
@@ -226,6 +227,10 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 #### Tower Defense
 
 - Xtrike - [Android](https://play.google.com/store/apps/details?id=online.xtrike.xtrike) - An awesome strategic tower defense game. Build your battle units and destroy enemies. By [White Wood City](http://www.xtrike.online/)
+
+## Resources
+
+- [Game UI Database](https://www.gameuidatabase.com/index.php) - The ultimate screen reference Tool for game interface designers.  Explore over 500 games and 19,000 individual images, and filter by screen type, material, layout, texture, shapes, patterns, genre and more!
 
 ## Non-English Content
 
