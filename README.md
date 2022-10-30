@@ -110,7 +110,6 @@ to get their code to run with any up-to-date version of Flame.
 - [flame_gamepad](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support.
 - [flame_geom](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations.
 - [flame_scrolling_sprite](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area.
-- [play_games](https://github.com/flame-engine/play_games) - A simple wrapper on top of Google Play Games Services (GPGS), including auth, achievement, and more.
 
 ### Community
 
