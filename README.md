@@ -230,7 +230,7 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 ## Resources
 
-- [Game UI Database](https://www.gameuidatabase.com/index.php) - The ultimate screen reference Tool for game interface designers.  Explore over 500 games and 19,000 individual images, and filter by screen type, material, layout, texture, shapes, patterns, genre and more!
+- [Game UI Database](https://www.gameuidatabase.com/) - The ultimate screen reference Tool for game interface designers.  Explore over 500 games and 19,000 individual images, and filter by screen type, material, layout, texture, shapes, patterns, genre and more!
 
 ## Non-English Content
 
