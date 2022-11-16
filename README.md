@@ -183,7 +183,7 @@ to get their code to run with any up-to-date version of Flame.
 By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 <!--lint ignore double-link-->
-- Hyper Hexagon - [Web version](https://thecocce.itch.io/hyper-hexagon) - Hexagonal board game challenge - A classical and futuristic. Inspired by the old classic Hexxagon '90s game. By [TheCocce](https://github.com/thecocce/)
+- Hyper Hexagon - [Android](https://play.google.com/store/apps/details?id=it.cocce.hyperhexagon), [Web](https://thecocce.itch.io/hyper-hexagon) - Hexagonal board game challenge - A classical and futuristic. Inspired by the old classic Hexxagon '90s game. By [TheCocce](https://github.com/thecocce/)
 
 - [Brick Mania](https://www.dong.digital/brickmania/) - [Android](https://play.google.com/store/apps/details?id=net.countrymania.brick), [iOS](https://apps.apple.com/us/app/brick-mania/id1574554961) - A fantastic reinvention of the classic Brick Breaker game: relaxing and yet super satisfying. By [Dong Digital][3].
 
