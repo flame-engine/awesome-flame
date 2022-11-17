@@ -227,6 +227,10 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - Xtrike - [Android](https://play.google.com/store/apps/details?id=online.xtrike.xtrike) - An awesome strategic tower defense game. Build your battle units and destroy enemies. By [White Wood City](http://www.xtrike.online/)
 
+#### Roguelike
+
+- Geometry Survival Beta - [Android](https://play.google.com/store/apps/details?id=com.bugcatt.game.geometrysurvival) - An roguelike game to survival and upgrade weapons to destroy powerful enemies. By [HarrisonQI](https://www.bugcatt.com/)
+
 ## Resources
 
 - [Game UI Database](https://www.gameuidatabase.com/) - The ultimate screen reference tool for game interface designers. Explore over 500 games and 19,000 individual images, and filter by screen type, material, layout, texture, shapes, patterns, genres and more!
