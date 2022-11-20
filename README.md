@@ -187,6 +187,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - [Brick Mania](https://www.dong.digital/brickmania/) - [Android](https://play.google.com/store/apps/details?id=net.countrymania.brick), [iOS](https://apps.apple.com/us/app/brick-mania/id1574554961) - A fantastic reinvention of the classic Brick Breaker game: relaxing and yet super satisfying. By [Dong Digital][3].
 
+- Tension Tunnel - [Android](https://play.google.com/store/apps/details?id=com.atomicinstinct.tensiontunnel), [iOS](https://apps.apple.com/app/tension-tunnel/id1608041401), [Web](https://tensiontunnel.com/play) - A casual, minimalist and challenging game that will put your reflexes to the test. Be careful, it's highly addictive!. By [Atomic Instinct](https://atomicinstinct.com)
+
 #### Educational
 
 - [Sky Academy](https://www.dong.digital/skyacademy/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.skyacademy), [iOS](https://apps.apple.com/us/app/sky-academy/id1571488252) - Learn to recognize all the constellations and brightest stars from a gold medal winner of the International Astronomy Olympiad. By [Dong Digital][3].
