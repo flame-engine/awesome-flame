@@ -45,16 +45,16 @@
 - [Basics of Game Development using Flame](https://medium.com/simform-engineering/basics-of-game-development-using-flame-bee1b8cf7320)
 - [Build Collision-Based Game Using Flame in Flutter](https://medium.com/simform-engineering/build-collision-based-game-using-flame-in-flutter-ba1fc86702bd) - (2022-10-09).
 
-### Articles by [Yayocode][2]
+### Articles by [YayoCode][2]
 
-- [1. Getting started: Setting up the project](https://yayocode.blogspot.com/2022/08/flame-getting-started-setting-up-project_4.html)
-- [2. The world, bodies, shapes, and fixtures](https://yayocode.blogspot.com/2022/08/flame-world-bodies-shapes-and-fixtures.html)
-- [3. Body types: dynamic, static & kinematic](https://yayocode.blogspot.com/2022/08/flame-body-types-dynamic-static.html)
-- [4. Friction, density & restitution](https://yayocode.blogspot.com/2022/08/flame-friction-density-restitution.html)
-- [5. Forces, impulses & linear velocity](https://yayocode.blogspot.com/2022/08/flame-forces-impulses-linear-velocity.html)
-- [6. Bodies and sprites](https://yayocode.blogspot.com/2022/08/flame-bodies-and-sprites.html)
-- [7. Collisions](https://yayocode.blogspot.com/2022/08/flame-collisions.html)
-- [8. Collisions with animated sprites](https://yayocode.blogspot.com/2022/08/flame-collisions-with-animated-sprites.html) - (2022-08-15).
+- [1. Getting started: Setting up the project](https://yayocode.com/post/XPECczhhAZgJDGcy69AO)
+- [2. The world, bodies, shapes, and fixtures](https://yayocode.com/post/pD63d2bqXJnaRU8Er80B)
+- [3. Body types: dynamic, static & kinematic](https://yayocode.com/post/7hp4dLXobT8GJ3NtzVOS)
+- [4. Friction, density & restitution](https://yayocode.com/post/Gt8E8u7W9ftte6nRp1fu)
+- [5. Forces, impulses & linear velocity](https://yayocode.com/post/yPFeIgyd6Jnz8Pgby6FU)
+- [6. Bodies and sprites](https://yayocode.com/post/91HWShtzuHkfaOj9gPP3)
+- [7. Collisions](https://yayocode.com/post/5eL4tEcqOwlVxrtJV1BD)
+- [8. Collisions with animated sprites](https://yayocode.com/post/ByfdSu012LCDKkAucB50) - (2022-12-02).
 
 ### Tutorials by [raywenderlich.com](https://www.raywenderlich.com/)
 
@@ -248,5 +248,5 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 <!-- Add ref links here -->
 [1]: <https://www.youtube.com/devkage> 'DevKage'
-[2]: <https://www.yayocode.com> 'Yayocode'
+[2]: <https://www.yayocode.com> 'YayoCode'
 [3]: <https://www.dong.digital> 'Dong Digital'
