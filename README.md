@@ -192,6 +192,9 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - Tension Tunnel - [Android](https://play.google.com/store/apps/details?id=com.atomicinstinct.tensiontunnel), [iOS](https://apps.apple.com/app/tension-tunnel/id1608041401), [Web](https://tensiontunnel.com/play) - A casual, minimalist and challenging game that will put your reflexes to the test. Be careful, it's highly addictive! By [Atomic Instinct](https://atomicinstinct.com)
 
+- TTG - Through The Galaxies - [Android](https://play.google.com/store/apps/details?id=dev.app2pack.ttg), [iOS](https://apps.apple.com/app/ttg-through-the-galaxy/id6444870791?platform=iphone) - Control the rocket to go through the planets to gain higher and higher score. By [imaNNeo](https://github.com/imaNNeo)
+
+
 #### Educational
 
 - [Sky Academy](https://www.dong.digital/skyacademy/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.skyacademy), [iOS](https://apps.apple.com/us/app/sky-academy/id1571488252) - Learn to recognize all the constellations and brightest stars from a gold medal winner of the International Astronomy Olympiad. By [Dong Digital][3].
