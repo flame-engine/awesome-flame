@@ -77,6 +77,8 @@
 
 - [Spacescape - Flutter Game Development Series with Flame](https://www.youtube.com/playlist?list=PLiZZKL9HLmWPL0URlq9WLng1A_g1LDuxx) - An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage][1].
 
+- [How to build a real-time multiplayer game with Flutter Flame](https://supabase.com/blog/flutter-real-time-multiplayer-game) - Using Flutter, Flame, and Supabase's real-time features to build a real-time multiplayer shooting game. By [Tyler Shukert](https://twitter.com/dshukertjr).
+
 ### Deprecated Articles & Tutorials
 
 The tutorials in this section were written a long time ago and you'll have to do a lot of changes
