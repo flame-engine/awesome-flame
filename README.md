@@ -198,6 +198,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - BBB - Birds, Beasts, Baddies - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.balloons) - Four furry and feathery friends jump for joy. Avoid enemies, collect mushrooms, jump as high as you can. By [Coconut Island Apps](https://coconutisland.xyz/)
 
+- Jade Rapids - [Android](https://play.google.com/store/apps/details?id=lalonde.jadepug.jade_rapids_game) - Swim with your pug up Jade Rapids collecting treats and dodging obstacles. By [Philip Lalonde](https://github.com/lalondeph)
+
 
 #### Educational
 
