@@ -200,6 +200,7 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - Jade Rapids - [Android](https://play.google.com/store/apps/details?id=lalonde.jadepug.jade_rapids_game) - Swim with your pug up Jade Rapids collecting treats and dodging obstacles. By [Philip Lalonde](https://github.com/lalondeph)
 
+- Escaper: Run - [IOS](https://apps.apple.com/tr/app/escaper-run/id6450519372?platform=iphone) - Dodge the bombs. Test your reflexes! By [A. Can Algan](https://github.com/acalgan)
 
 #### Educational
 
