@@ -14,12 +14,11 @@ jobs:
     name: Linting with awesome-lint
     steps:
       - name: Check out repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
       - name: Use Node.js 10.x
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
         with:
-          node-version: 10.x
-      - run: npm install
+          node-version: 18.x
       - run: npx awesome-lint
