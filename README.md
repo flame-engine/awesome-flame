@@ -30,8 +30,6 @@
 
 - [Articles & Tutorials](#articles--tutorials)
 - [Plugins & Libraries](#plugins--libraries)
-  - [Official](#official)
-  - [Community](#community)
 - [Projects](#projects)
   - [Open Source](#open-source)
   - [App Releases](#app-releases)
@@ -106,15 +104,7 @@ to get their code to run with any up-to-date version of Flame.
 
 ## Plugins & Libraries
 
-### Official
-
-<!--lint ignore double-link-->
-- [flame_gamepad](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support.
-- [flame_geom](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations.
-- [flame_scrolling_sprite](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area.
-
-### Community
-
+- [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) - first-party plugins included in Flame's monorepo.
 - [bonfire](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 - [flame_texturepacker](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
 - [leap](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
