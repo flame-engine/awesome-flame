@@ -38,6 +38,17 @@
 
 ## Articles & Tutorials
 
+### Tutorial by [imaNNeo](https://www.youtube.com/@imaNNeO) - [Color Switch Game tutorial](https://www.youtube.com/playlist?list=PL1-_rCwRcnbNknvJ4fbnsn46_ww8V4CVh) - (2023-10-06)
+- [0. Overview and Introduction of Flutter / Flame game tutorials 🔍](https://youtu.be/ubyoQGPnmmw?si=pt8t0Oi_7WYn0VGm) 
+- [1. Flame Component System (FCM) & Event handling 🎊](https://youtu.be/eiZDbUBesqE)
+- [2. Camera and World components 🎥](https://youtu.be/nyUayMgZqDg)
+- [3. Sprite & Custom Components 🖼️](https://youtu.be/Xb5ySgetpmU)
+- [4. Collision detection 💥](https://youtu.be/w6hEuWPnXQc)
+- [5. Pause menu, Decorators and Overlays ⏸️](https://youtu.be/ISSty1nQ-uQ)
+- [6. Scoring and Flame Engine Particles ✨](https://youtu.be/QAk4YyNcvrA)
+- [7. Flame Audio and Sound Effects 🔊](https://youtu.be/uqkX_npgOWA)
+- [8-final. Polishing and Optimizing🌟](https://youtu.be/dxCTIaveunY)
+
 ### Articles by [Happy Makadiya at Simform Solutions](https://medium.com/@happy.m)
 
 - [Basics of Game Development using Flame](https://medium.com/simform-engineering/basics-of-game-development-using-flame-bee1b8cf7320)
