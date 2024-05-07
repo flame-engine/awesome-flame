@@ -116,7 +116,7 @@
 - [Flappy Flame](https://github.com/Pierre-Monier/flappy_flame) - A flappy bird clone made with Flame 1.0.0-rc5. By [Pierre-Monier](https://github.com/Pierre-Monier)
 - [Spacescape](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1].
 - [New Super Jumper](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
-- [Flappy Dash](https://play.google.com/store/apps/details?id=games.pocket.flappydash.flappy_dash)  - Gives classic flappy bird game play experience. By [Rutvik Panchal](https://twitter.com/rutvikpanchal_x)
+- [Flappy Dash](https://github.com/RutvikPanchal246/FlappyDash)  - Gives classic flappy bird game play experience. By [Rutvik Panchal](https://twitter.com/rutvikpanchal_x)
 
 #### Endless Runner
 
