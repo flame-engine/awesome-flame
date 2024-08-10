@@ -237,6 +237,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - Xtrike - [Android](https://play.google.com/store/apps/details?id=online.xtrike.xtrike) - An awesome strategic tower defense game. Build your battle units and destroy enemies. By [White Wood City](http://www.xtrike.online/)
 
+- Bubble Panic! - [Android](https://play.google.com/store/apps/details?id=jp.co.gohko.bubble_panic), [iOS](https://apps.apple.com/us/app/bubble-panic-tower-defense/id6584514075) - A casual tower defense game that offers long-lasting playability with automatic stage generation. By [Gohko Engineering G.K.](https://bp.gohko.co.jp/)
+
 #### Roguelike
 
 - Geometry Survival Beta - [Android](https://play.google.com/store/apps/details?id=com.bugcatt.game.geometrysurvival) - An roguelike game to survival and upgrade weapons to destroy powerful enemies. By [HarrisonQI](https://www.bugcatt.com/)
