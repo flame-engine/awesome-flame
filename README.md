@@ -230,6 +230,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 <!--lint ignore double-link-->
 - Xeonjia: Ice Adventures - [Android](https://play.google.com/store/apps/details?id=xyz.deepdaikon.xeonjia), [Desktop](https://deepdaikon.itch.io/xeonjia), [GitLab](https://gitlab.com/deepdaikon/Xeonjia) - An adventure game set in a frozen world. By [DeepDaikon](https://deepdaikon.xyz/)
 
+- The Darkblade - [Desktop](https://store.steampowered.com/app/3731570/The_Darkblade/) - Souls-like 2D singleplayer RPG. By [Mikalyh](https://store.steampowered.com/curator/45619362)
+
 #### Sports
 
 <!--lint ignore double-link-->
