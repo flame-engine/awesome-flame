@@ -225,6 +225,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - [Oderrube](https://oderrube.pcgoncalves.com.br/) - [Android](https://play.google.com/store/apps/details?id=br.com.pcgoncalves.oderrube), [IOS](https://apps.apple.com/br/app/oderrube/id6447583342?platform=iphone) - Oderrube is an physics puzzle game. Carefully remove the blocks to allow Derrubito to fall into the target. By [Paulo Gonçalves](https://www.linkedin.com/in/opaulogoncalves)
 
+- [Mine Cart Operator](https://cherrybit.itch.io/mine-cart-operator) - Mine cart operator is dekstop puzzle game for Windows, Mac and Linux. By [CherryBit Studios](https://cherrybit.studio/)
+
 #### Role Playing
 
 <!--lint ignore double-link-->
