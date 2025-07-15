@@ -118,6 +118,7 @@
 - [New Super Jumper](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
 - [Flappy Dash](https://github.com/RutvikPanchal246/FlappyDash)  - Gives classic flappy bird game play experience. Get it on [Play Store](https://play.google.com/store/apps/details?id=games.pocket.flappydash.flappy_dash). By [Rutvik Panchal](https://twitter.com/rutvikpanchal_x)
 - [Sober Driver](https://github.com/maurovanetti/guidi-tu) - An app with 10 mini games to designate a sober driver for a night out. Get it on [Google Play](https://play.google.com/store/apps/details?id=net.coopalice.guiditu), [App Store](https://apps.apple.com/it/app/guidi-tu/id6476491805). By [Mauro Vanetti](https://maurovanetti.info/).
+- [Square Shooter](https://github.com/namzug16/squareshooter_flame) - A simple 2D top-down shooter for the web. Play solo vs AI or sit back and let the AI battle its own. By [Namzug](https://namzug.dev/).
 
 #### Endless Runner
 
