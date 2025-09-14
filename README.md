@@ -120,6 +120,10 @@
 - [Sober Driver](https://github.com/maurovanetti/guidi-tu) - An app with 10 mini games to designate a sober driver for a night out. Get it on [Google Play](https://play.google.com/store/apps/details?id=net.coopalice.guiditu), [App Store](https://apps.apple.com/it/app/guidi-tu/id6476491805). By [Mauro Vanetti](https://maurovanetti.info/).
 - [Square Shooter](https://github.com/namzug16/squareshooter_flame) - A simple 2D top-down shooter for the web. Play solo vs AI or sit back and let the AI battle its own. By [Namzug](https://namzug.dev/).
 
+#### Education
+
+- [Visual Graphs](https://mglsj.eu.org/visual_graphs/) - A graph (data structure) algoithims visualizer built with Flutter & Flame. By [mglsj](https://github.com/mglsj/visual_graphs)
+
 #### Endless Runner
 
 <!--lint ignore double-link-->
