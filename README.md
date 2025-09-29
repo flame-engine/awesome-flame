@@ -143,6 +143,11 @@
 
 ### App Releases
 
+#### Action
+
+<!--lint ignore double-link-->
+- Vitayaja - [Android](https://play.google.com/store/apps/details?id=com.kevinomyonga.games.vitayaja) - A thrilling 2D versus fighting game built with precision, speed, and strategy in mind. Choose your fighter and battle against CPU opponents or friends. By [Kevin Omyonga](https://kevinomyonga.com)
+
 #### Arcade
 
 <!--lint ignore double-link-->
