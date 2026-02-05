@@ -240,6 +240,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - [Mine Cart Operator](https://cherrybit.itch.io/mine-cart-operator) - Mine cart operator is dekstop puzzle game for Windows, Mac and Linux. By [CherryBit Studios](https://cherrybit.studio/)
 
+- Jigsaw Puzzles - [Android](https://play.google.com/store/apps/details?id=jigsaw.puzzle.game), [iOS](https://apps.apple.com/us/app/jigsaw-puzzles-puzzle-play/id6469541260) - Relaxing jigsaw puzzle game with thousands of HD images, custom puzzles and daily challenges. By [Mikhail Smirnov](https://happyjigsaw.com)
+
 #### Role Playing
 
 <!--lint ignore double-link-->
