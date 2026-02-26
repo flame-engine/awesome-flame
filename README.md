@@ -246,6 +246,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - [Bumble Maze](https://play.google.com/store/apps/details?id=com.midnightcommit.maze) - [Android](https://play.google.com/store/apps/details?id=com.midnightcommit.maze), [iOS](https://apps.apple.com/cz/app/bumble-maze/id6759364604) - A cozy puzzle adventure through procedurally generated garden mazes. By [LJ Digital](https://ljdigital.cz/)
 
+- [Pixelado](https://g4me.info/pixelado?utm_source=flame-awesome) - A Pixel art focused match-3 puzzle game for Android and iOS. By [CherryBit Studios](https://cherrybit.studio/)
+
 #### Role Playing
 
 <!--lint ignore double-link-->
