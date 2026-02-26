@@ -244,6 +244,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - Jigsaw Puzzles - [Android](https://play.google.com/store/apps/details?id=jigsaw.puzzle.game), [iOS](https://apps.apple.com/us/app/jigsaw-puzzles-puzzle-play/id6469541260) - Relaxing jigsaw puzzle game with thousands of HD images, custom puzzles and daily challenges. By [Mikhail Smirnov](https://happyjigsaw.com)
 
+- [Bumble Maze](https://play.google.com/store/apps/details?id=com.midnightcommit.maze) - [Android](https://play.google.com/store/apps/details?id=com.midnightcommit.maze), [iOS](https://apps.apple.com/cz/app/bumble-maze/id6759364604) - A cozy puzzle adventure through procedurally generated garden mazes. By [LJ Digital](https://ljdigital.cz/)
+
 #### Role Playing
 
 <!--lint ignore double-link-->
