@@ -270,7 +270,7 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - Bubble Panic! - [Android](https://play.google.com/store/apps/details?id=jp.co.gohko.bubble_panic), [iOS](https://apps.apple.com/us/app/bubble-panic-tower-defense/id6584514075) - A casual tower defense game that offers long-lasting playability with automatic stage generation. By [Gohko Engineering G.K.](https://bp.gohko.co.jp/)
 
-- Stellar Bastion - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.stellar_bastion), [iOS](https://apps.apple.com/us/app/stellar-bastion/id6761073618), [Web](https://www.crazygames.com/game/stellar-bastion) - A 2D pixel-art tower defense game. Combo your towers together to defeat the onslaught! By [Coconut Island Apps](https://coconutisland.app)
+- Stellar Bastion - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.stellar_bastion), [iOS](https://apps.apple.com/us/app/stellar-bastion/id6761073618), [Web](https://www.crazygames.com/game/stellar-bastion) - A 2D pixel-art tower defense game. Combo your towers together to defeat the onslaught! By Coconut Island Apps
 
 - Defend Your Flame - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.defend_your_flame), [iOS](https://apps.apple.com/us/app/defend-your-flame/id6763261764) - A 2D pixel-art base-defense game. Swipe your enemies away and into each other, upgrade your base, Defend Your Flame! By [Coconut Island Apps](https://coconutisland.app)
 
