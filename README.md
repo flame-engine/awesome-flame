@@ -141,6 +141,10 @@
 
 - [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
+#### Strategy
+
+- [Age of New Worlds](https://github.com/ernestwisniewski/aonw) - An open-source 4X strategy game built with Flutter and Flame, featuring hex maps, turn-based empire building, AI players, and multiplayer foundations. By [ernestwisniewski](https://github.com/ernestwisniewski).
+
 ### App Releases
 
 #### Action
