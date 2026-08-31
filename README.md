@@ -90,6 +90,8 @@
 
 - [How to build a real-time multiplayer game with Flutter Flame](https://supabase.com/blog/flutter-real-time-multiplayer-game) - Using Flutter, Flame, and Supabase's real-time features to build a real-time multiplayer shooting game. By [Tyler Shukert](https://twitter.com/dshukertjr).
 
+- [Publishing your Flutter Game in the Steam Deck!](https://dev.to/erickzanardo/publishing-your-flutter-game-in-the-steam-deck-oec) - A walkthrough on how to publish your Flutter/Flame game in the Steam Deck. By [Erick Zanardo](https://erick.gamedev.blue/) 
+
 ### Examples
 
 - [Maze generator](https://github.com/Dannark/FlameExamples) - List of algorithm examples to solve problems like Maze generation and more. By [Dannark](https://github.com/Dannark/)
