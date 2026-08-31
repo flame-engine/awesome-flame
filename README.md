@@ -173,6 +173,7 @@
 
 #### Cards
 
+<!--lint ignore double-link-->
 - [Retro Spider](https://g4me.info/retro-spider) - The classic Solitaire Spider game, in pretty pixel art style for Android and iOS. By [CherryBit Studios](https://cherrybit.studio/)
 
 #### Casual
