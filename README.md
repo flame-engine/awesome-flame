@@ -171,6 +171,10 @@
 
 - [Chinese Checkers](https://www.dong.digital/chinesecheckers/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.chinesecheckers), [iOS](https://apps.apple.com/app/chinesecheckers/id1596651307) - Play Chinese Checkers (Sternhalma), a popular strategy board game, online with friends/strangers or offline with bots. By [Dong Digital][3].
 
+#### Cards
+
+- [Retro Spider](https://g4me.info/retro-spider) - The classic Solitaire Spider game, in pretty pixel art style for Android and iOS. By [CherryBit Studios](https://cherrybit.studio/)
+
 #### Casual
 
 <!--lint ignore double-link-->
