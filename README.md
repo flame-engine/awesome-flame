@@ -163,6 +163,9 @@
 <!--lint ignore double-link-->
 - Oh Dash! - [iOS](https://apps.apple.com/br/app/oh-dash/id6443688260) - Play a fast paced arcade game by dodging various hazards and try to be top player on the world! - By [Davi Bispo](https://github.com/arcadekenan)
 
+<!--lint ignore double-link-->
+- Taco Rain - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.tacorain), [iOS](https://apps.apple.com/us/app/taco-rain-catch-the-tacos/id6802783584) - A family catching game: steer a basket to catch falling tacos and dodge the bombs, across 50 levels in five worlds, with a daily challenge and an endless mode. By [Illumination Development](https://illuminationdevelopment.com)
+
 #### Board
 
 <!--lint ignore double-link-->
