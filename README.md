@@ -221,6 +221,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - Upverse: Endless Jump - [Android](https://play.google.com/store/apps/details?id=com.xeinebiu.upverse) - Bounce from a sunny meadow into space and beyond. How high can you go? By [xeinebiu](https://github.com/xeinebiu)
 
+- Pimbli: Super Adventures - [Android](https://play.google.com/store/apps/details?id=com.xeinebiu.mousworld1) - Run, jump and explore four worlds with Pimbli, a little hero on a big journey. By [xeinebiu](https://github.com/xeinebiu)
+
 
 #### Educational
 
