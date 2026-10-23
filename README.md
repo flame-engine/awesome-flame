@@ -295,6 +295,10 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - Random Race - [Android](https://play.google.com/store/apps/details?id=com.sopivasti.randomrace) - A racing simulation app with cute dinos to help you make decisions when you find yourself indecisive. By [Sopivasti](https://www.sopivasti.com/)
 
+#### Strategy
+
+- Sporehold - [iOS](https://apps.apple.com/us/app/sporehold-turn-based-strategy/id6815795120) - A pixel-art turn-based tactics game where enemies react before your attacks land. Command mushroom warriors, outsmart enemy defenses, and reclaim a kingdom consumed by the Purple Plague. By [Oleksandr Nikolaiev](https://github.com/AANikolaev).
+
 ## Resources
 
 - [Game UI Database](https://www.gameuidatabase.com/) - The ultimate screen reference tool for game interface designers. Explore over 500 games and 19,000 individual images, and filter by screen type, material, layout, texture, shapes, patterns, genres and more!
