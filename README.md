@@ -302,6 +302,7 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 ## Resources
 
 - [Game UI Database](https://www.gameuidatabase.com/) - The ultimate screen reference tool for game interface designers. Explore over 500 games and 19,000 individual images, and filter by screen type, material, layout, texture, shapes, patterns, genres and more!
+- [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game development.
 
 ## Non-English Content
 
