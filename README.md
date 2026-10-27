@@ -33,7 +33,6 @@
 - [Projects](#projects)
   - [Open Source](#open-source)
   - [App Releases](#app-releases)
-- [Resources](#resources)
 - [Non-English Content](#non-english-content)
 
 ## Articles & Tutorials
