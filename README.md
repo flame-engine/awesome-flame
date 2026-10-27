@@ -33,7 +33,6 @@
 - [Projects](#projects)
   - [Open Source](#open-source)
   - [App Releases](#app-releases)
-- [Non-English Content](#non-english-content)
 
 ## Articles & Tutorials
 
@@ -305,11 +304,6 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 #### Strategy
 
 - Sporehold - [iOS](https://apps.apple.com/us/app/sporehold-turn-based-strategy/id6815795120) - A pixel-art turn-based tactics game where enemies react before your attacks land. Command mushroom warriors, outsmart enemy defenses, and reclaim a kingdom consumed by the Purple Plague. By [Oleksandr Nikolaiev](https://github.com/AANikolaev).
-
-## Non-English Content
-
-- [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
-- [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
 ## Contributing
 
