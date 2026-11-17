@@ -271,6 +271,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - [Pixelado](https://g4me.info/pixelado?utm_source=flame-awesome) - A Pixel art focused match-3 puzzle game for Android and iOS. By [CherryBit Studios](https://cherrybit.studio/)
 
+- Arrow Duel - [Android](https://play.google.com/store/apps/details?id=com.binduintelligence.arrowduel) - An arrow-escape puzzle where every level is a turn-based duel against a computer rival: clear your arrows first without opening the way for theirs. 100 levels, bosses, a League and a Daily Challenge. By [jeshan-coder](https://github.com/jeshan-coder)
+
 #### Role Playing
 
 <!--lint ignore double-link-->
