@@ -312,6 +312,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - Cycling Escape - [GitHub](https://github.com/ikbendewilliam/CyclingEscape) - You start off with only one rider. Compete in races to start earning money. Unlock more team mates and compete in more extreme and longer races. Keep going and win the ultimate world tour! By [ikbendewilliam](https://github.com/ikbendewilliam)
 
+- Ringside: Idle Boxing - [Android](https://play.google.com/store/apps/details?id=com.lambdainteractive.ringside), [iOS](https://apps.apple.com/app/id6834308947) - An idle boxing RPG: train a pixel-art fighter, loot and equip gear, and knock out champions, with progress that keeps going while you're offline. By [Lambda Interactive](https://ringside.lambdainteractive.xyz)
+
 #### Tower Defense
 
 - Bubble Panic! - [Android](https://play.google.com/store/apps/details?id=jp.co.gohko.bubble_panic), [iOS](https://apps.apple.com/us/app/bubble-panic-tower-defense/id6584514075) - A casual tower defense game that offers long-lasting playability with automatic stage generation. By [Gohko Engineering G.K.](https://bp.gohko.co.jp/)
