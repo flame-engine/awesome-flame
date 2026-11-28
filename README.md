@@ -102,6 +102,7 @@
 - [leap](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 - [fuse](https://github.com/misha/flame_fuse) - Behavior composition with hooks for Flame components. By [Misha](https://github.com/misha)
 - [flame_flutter3d](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
+- [ssplayer_flame](https://github.com/cri-middleware/SSPlayerForFlutter/tree/main/packages/ssplayer_flame) - Plays [SpriteStudio](https://www.webtech.co.jp/eng/spritestudio/) animations as a Flame component. SpriteStudio is a 2D animation tool: an artist adds bones, mesh deformation and effects to their own illustrations. By [cri-middleware](https://github.com/cri-middleware)
 
 ## Projects
 
