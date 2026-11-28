@@ -159,6 +159,9 @@
 <!--lint ignore double-link-->
 - Voideron - [Android](https://play.google.com/store/apps/details?id=com.teoktonos.voideron) - A twin-stick black-hole dungeon: clear all 10 levels. Offline, no ads. By [Teoktonos](https://voideron.teoktonos.com)
 
+<!--lint ignore double-link-->
+- Horde Convoy - [Android](https://play.google.com/store/apps/details?id=com.hordeconvoy.game) - An offline zombie lane shooter: steer your squad through + − × ÷ math gates, grow it to 300 soldiers and fight bosses across 30 story levels and endless patrols. By [Diffwise Games](https://games.diffwise.app/horde-convoy/)
+
 #### Arcade
 
 <!--lint ignore double-link-->
